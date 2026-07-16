@@ -24,4 +24,11 @@ All 16 hands-on activities from the EntreEd guide, one line each. Full instructi
 | [[Lebesgue Terrace]] | Rising Tide Measurement | Freeze at called water levels — horizontal slicing | Medium |
 | [[Frieze Tables]] | Frieze Scavenger Hunt | Find a border in the room; body-code its symmetry | Any |
 
+## Special: the hidden-message activity
+| Scene | Activity | One line | Space needed |
+|---|---|---|---|
+| [[Silhouettes and Vortices]] | [[Decode the Banner]] + Shannon guessing game | Crack the flag's real hidden binary message; then measure English itself with Shannon's 1951 next-letter game | Small (worksheets) |
+
+Unlike the sixteen body-based activities above, this one comes with printables (worksheet, decoder cards, score sheet) and a genuine payoff: the message is real, it's decodable by anyone, and the solution stays off this site so the discovery belongs to the decoder. → [[Decode the Banner]]
+
 **Docent tip:** pick activities by available floor space and group mobility. "None/Small" activities work in a crowded gallery at ICM; save "Large" ones for the MCCC setting with school groups.

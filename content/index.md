@@ -37,8 +37,9 @@ A study guide and docent handbook for **[Mathemalchemy](https://mathemalchemy.or
 
 ## Docent program
 - [[Docent Guide - How to Use]] — the core method
-- [[Activities Index]] — all 16 hands-on activities at a glance
+- [[Activities Index]] — all the hands-on activities at a glance
 - [[Tour Planning]] — four themed routes (A–D), timing, audience matching
+- 🚩 [[Decode the Banner]] — the skateboarder's flag hides a **real message in binary**. Crack it, then play Claude Shannon's guessing game. (No spoilers on this site!)
 
 ---
 *Tip: every underlined phrase is a link — follow the math. Hover over a link to preview it. Use the search (top of page) to find any concept.*
