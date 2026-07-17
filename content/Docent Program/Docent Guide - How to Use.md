@@ -30,7 +30,3 @@ Every scene note in this vault carries pre-loaded material for all four beats (D
 - [ ] Rehearse one physical activity — they need practice to run smoothly
 - [ ] Know the two downloadable worksheets (Source - Mathemalchemy Website)
 - [ ] Know the origin story (Daubechies + Ehrmann, JMM 2020, built over Zoom during COVID) — visitors always ask "who made this?"
-
-## Open questions
-- Does the Mathemalchemy team's official **Welcome Guide / Hosting Guide** (referenced by EntreEd) come with the installation? Request copies.
-- Did MoMath / UQAM / NKU develop docent scripts we can borrow? → [[Exhibition History]]
