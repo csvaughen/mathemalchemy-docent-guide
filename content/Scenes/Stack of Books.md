@@ -26,5 +26,5 @@ One student stands on an agreed "axiom" spot ("the floor is solid"). Others join
 
 **Takeaway:** logic is a chain — solid starting truths plus proven steps make secure arguments (and secure technology).
 
-## My notes (after seeing it at ICM)
+## Additional Notes
 -

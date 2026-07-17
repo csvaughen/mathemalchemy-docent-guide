@@ -27,5 +27,5 @@ Describe a solid without naming it ("8 corners, 6 identical faces") — students
 
 **Takeaway:** all solids obey the same shape laws — the DNA of crystals and architecture.
 
-## My notes (after seeing it at ICM)
+## Additional Notes
 -

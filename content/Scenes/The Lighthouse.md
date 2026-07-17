@@ -27,5 +27,5 @@ Pick a target "ship" in the room. Two students in different corners are "lightho
 
 **Takeaway:** triangles are the strongest shape in construction *and* navigation.
 
-## My notes (after seeing it at ICM)
+## Additional Notes
 -

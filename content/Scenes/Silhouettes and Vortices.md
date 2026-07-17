@@ -30,10 +30,6 @@ A single-file line is the *stream*; one student mid-room is the *obstacle*. Pass
 ## Hidden binary banner
 The skateboarder's pennant flag is not decoration: every column of squares encodes one letter in **8-bit binary (ASCII)**, and the tiny **Mars rover silhouette** at the pennant's tip is a thematic clue. There *is* a real message — challenge visitors to crack it, and don't give it away. Full activity (binary/ASCII decode + the Shannon guessing game): [[Decode the Banner]].
 
-%%Private — solution and decode story: Silhouettes Banner Puzzle · docent activity: Banner Decoding Activity%%
-
-## MCCC connection
-Natural bridge to physics and engineering faculty; also connects to my seismic analysis interests (wave phenomena, turbulence-adjacent modeling).. The binary banner also makes a ready-made **cryptography activity**, [[Cryptography]].
-
-## My notes (after seeing it at ICM)
+## Additional Notes
+- Connects to my seismic analysis interests — wave phenomena, turbulence-adjacent modeling.
 -

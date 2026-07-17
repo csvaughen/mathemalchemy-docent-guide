@@ -38,6 +38,15 @@ $utf8NoBom = New-Object System.Text.UTF8Encoding($false)
 foreach ($file in (Get-ChildItem $content -Recurse -Filter *.md)) {
     $t = [System.IO.File]::ReadAllText($file.FullName)
 
+    # --- strip %%Obsidian comments%% ----------------------------------------
+    # Quartz removes these from the rendered HTML, but the raw markdown in this
+    # PUBLIC repo would otherwise expose them. Remove here so the source is safe
+    # too. (?s) lets . match newlines, so multi-line %% ... %% blocks are caught.
+    $t = $t -replace '(?s)%%.*?%%', ''
+    # tidy up: drop lines left blank by a removed block; collapse 3+ newlines to 2
+    $t = $t -replace "(?m)^[ \t]+$", ''
+    $t = $t -replace "(\r?\n){3,}", "`n`n"
+
     # --- remove personal contact details ------------------------------------
     $t = $t -replace ' \(smpezzimenti@widener\.edu[^)]*\)', ''
     $t = $t -replace ' \(fayeg@ix\.netcom\.com[^)]*\)', ''
@@ -76,6 +85,14 @@ $leaks = Get-ChildItem $content -Recurse -Filter *.md |
 if ($leaks) {
     $leaks | ForEach-Object { Write-Warning $_.ToString() }
     throw "PRIVATE DATA LEAK: email-like text found in public content. Sync aborted — fix the vault or add a scrub rule."
+}
+
+# --- safety net: abort if any %% comment marker survived --------------------
+$commentLeaks = Get-ChildItem $content -Recurse -Filter *.md |
+    Select-String -Pattern '%%'
+if ($commentLeaks) {
+    $commentLeaks | ForEach-Object { Write-Warning $_.ToString() }
+    throw "PRIVATE DATA LEAK: %% comment marker found in public content. Sync aborted — check the strip rule."
 }
 
 $count = (Get-ChildItem $content -Recurse -Filter *.md).Count

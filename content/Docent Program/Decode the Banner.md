@@ -45,4 +45,3 @@ One small detail on one flag unfolds into binary, ASCII, codebreaking tactics, a
 ## Materials
 Printable worksheet (the flag as a clean grid), decoder cards, and the Shannon-game score sheet exist as a three-page print pack — **along with the answer key, available from the docent coordinator.** The solution is deliberately kept off this site so visitors get the real thing: the moment the message comes up out of the squares for *them*.
 
-%%Private — answer key: Silhouettes Banner Puzzle · full internal version with solution: Banner Decoding Activity · print pack: Outreach/Printables/banner-decode-printables.html%%

@@ -31,4 +31,4 @@ All 16 hands-on activities from the EntreEd guide, one line each. Full instructi
 
 Unlike the sixteen body-based activities above, this one comes with printables (worksheet, decoder cards, score sheet) and a genuine payoff: the message is real, it's decodable by anyone, and the solution stays off this site so the discovery belongs to the decoder. → [[Decode the Banner]]
 
-**Docent tip:** pick activities by available floor space and group mobility. "None/Small" activities work in a crowded gallery at ICM; save "Large" ones for the MCCC setting with school groups.
+**Docent tip:** pick activities by available floor space and group mobility. "None/Small" activities work in a crowded gallery; save "Large" ones for roomier settings with school groups.

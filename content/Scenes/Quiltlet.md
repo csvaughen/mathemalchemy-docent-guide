@@ -27,5 +27,5 @@ Two facing lines: one is the *Origin*, the other the *Transformation*. Call rule
 
 **Takeaway:** the universe has a limited "menu" of repeat patterns — 17 in the plane, 7 in a strip ([[Frieze Groups]]).
 
-## My notes (after seeing it at ICM)
+## Additional Notes
 -

@@ -27,5 +27,5 @@ Tables whose border designs demonstrate the **seven frieze groups** — the only
 
 **Takeaway:** symmetry is a universal law of balance, from Greek architecture to microchips.
 
-## My notes (after seeing it at ICM)
+## Additional Notes
 -

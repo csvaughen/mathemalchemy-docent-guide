@@ -29,5 +29,5 @@ Pairs must send a secret number (1–5) while "hackers" (everyone else) watch. A
 ## Tour tip (from the guide's own example, p. 35)
 This scene is the guide's worked example of the 4-beat script: *What do you see? → surprising fact → explain the concepts → hands-on: assign pairs to a block to puzzle out its message.* → [[Docent Guide - How to Use]]
 
-## My notes (after seeing it at ICM)
+## Additional Notes
 -

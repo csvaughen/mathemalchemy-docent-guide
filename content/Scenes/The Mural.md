@@ -27,8 +27,5 @@ Look down the long axis of the gallery; pinch the air where the top and bottom o
 
 **Takeaway:** perspective is a mathematical hack of the eye — the foundation of VR.
 
-## MCCC connection
-The strongest scene for art-department outreach: Renaissance perspective → projective geometry → game design.
-
-## My notes (after seeing it at ICM)
+## Additional Notes
 -

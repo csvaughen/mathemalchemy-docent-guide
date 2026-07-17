@@ -30,8 +30,7 @@ Line up tallest → shortest; each person reaches slightly lower than the last, 
 ## Cross-links
 Same core math as [[Tess the Tortoise]] (Zeno's ½ + ¼ + ⅛ + … = 1), rendered in a different craft — a nice pairing on tours.
 
-## MCCC connection
-Creator Samantha Pezzimenti is in contact and has volunteered to help at MCCC. Also a creator on [[Knotical (Knotilus Bay)]].
+## Additional Notes
+**Local connections:** Samantha Pezzimenti (creator; also a creator on [[Knotical (Knotilus Bay)]])
 
-## My notes (after seeing it at ICM)
 -

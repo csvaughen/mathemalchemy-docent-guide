@@ -27,7 +27,8 @@ Circle up; everyone grabs two non-adjacent hands. Untangle without letting go. S
 
 **Takeaway:** knot math runs from sailing to molecular medicine.
 
-## Biology & biotech connections (for MCCC faculty/student outreach)
+## Biology & biotech connections 
+
 Hooks to invite bio, microbio, and biotech faculty and their students. Brief on purpose — conversation starters, not lectures.
 
 - **Topoisomerases** — enzymes that fix DNA's knot/tangle problems. Every time a cell copies its DNA, the double helix over-twists and the strands get knotted or linked (like two rings hooked together). Topoisomerases *cut* the DNA, pass strands through, and *reseal* it — doing knot theory chemically, billions of times a day, so cells can divide. (Type I cuts one strand; Type II cuts both.)
@@ -39,8 +40,6 @@ Hooks to invite bio, microbio, and biotech faculty and their students. Brief on 
 - **DNA nanotechnology / DNA origami** — biotech students actually *build* designed knots and links out of DNA; the reef's [[The Garden and Reef|folded-paper origami]] is a nice visual bridge.
 - **Site-specific recombination** — enzymes that cut-and-rejoin DNA change its knot type; mathematicians (tangle calculus) model these reactions with knot theory to predict enzyme mechanisms.
 
-**Who to invite / possible activities:** microbiology (antibiotic resistance angle), cell/molecular biology, the biotech program (electrophoresis lab), maybe a chemistry/pharmacology tie-in on drug design. Co-teach idea: pair Samantha Pezzimenti's knot-theory talk with a bio faculty member on topoisomerases — same idea from two disciplines., [[Knot Theory]]
-
 ### The Greenland shark — a real-world tie-in (my addition, *not* in the actual scene)
 *Not part of the installation.* The official bay is stocked with knot-pun creatures (a self-knotting "Knottie" sea serpent, an octopus, "knottibranch" nudibranchs, a starfish). But it's fun to imagine a real animal cruising the dark water below — the **Greenland shark** — and it connects straight to this scene's DNA theme:
 
@@ -51,8 +50,7 @@ Hooks to invite bio, microbio, and biotech faculty and their students. Brief on 
 
 **Docent line (honest version):** "This bay has a self-knotting sea serpent — pure whimsy. But in the *real* deep North Atlantic swims the Greenland shark, possibly 400 years old, and scientists are studying whether its knack for keeping its DNA intact is part of the secret." → [[Knot Theory]]
 
-## MCCC connection
-Creator Samantha Pezzimenti is local, **in email contact, and has volunteered to help at MCCC** — ideal guest speaker on exactly this scene. She's also a creator on [[Ball Arches]]., [[The Team]]
+## Additional Notes
+**Local connections:** Samantha Pezzimenti (creator; also a creator on [[Ball Arches]])
 
-## My notes (after seeing it at ICM)
 -

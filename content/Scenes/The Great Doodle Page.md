@@ -28,8 +28,5 @@ Eyes closed: imagine a cube floating in front of you. Mentally slice it from a t
 
 **Takeaway:** doodling is a high-level thinking tool, not a distraction.
 
-## MCCC connection
-Great hook for art students and for a "women in mathematics" campus theme.
-
-## My notes (after seeing it at ICM)
+## Additional Notes
 -

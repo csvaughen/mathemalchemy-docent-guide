@@ -27,5 +27,5 @@ Pick a line on the floor; the group stands a few feet back. Repeat the instructi
 
 **Takeaway:** infinity can be tamed by a limit — infinitely many small steps can still lead to a definite end.
 
-## My notes (after seeing it at ICM)
+## Additional Notes
 -

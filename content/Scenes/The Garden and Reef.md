@@ -27,8 +27,7 @@ Two students walk side by side, one foot apart. In flat space they'd stay parall
 
 **Takeaway:** nature is a hyperbolic engineer.
 
-## MCCC connection
-Creator Faye Goldman is **in email contact and has volunteered to help at MCCC** — potential origami/snapology workshop or guest talk on this scene., [[The Team]]
+## Additional Notes
+**Local connections:** Faye Goldman (creator — origami/snapology)
 
-## My notes (after seeing it at ICM)
 - Find the prime-sorting chipmunks!

@@ -30,5 +30,5 @@ One student is the trunk with two arms out; two students branch off each hand; f
 ## Cross-links
 Pairs beautifully with [[Mandelbrot Bakery]] (iteration) on a fractal-themed tour leg.
 
-## My notes (after seeing it at ICM)
+## Additional Notes
 -

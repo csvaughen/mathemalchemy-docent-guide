@@ -27,8 +27,5 @@ Everyone stands in an imaginary dry pool. Call rising "water levels" — knees! 
 
 **Takeaway:** slicing the world horizontally is often the smartest way to measure complexity.
 
-## MCCC connection
-Gold for calculus students: a *physical* answer to "why would anyone integrate differently than Riemann?" Great capstone stop on a student tour.
-
-## My notes (after seeing it at ICM)
+## Additional Notes
 -

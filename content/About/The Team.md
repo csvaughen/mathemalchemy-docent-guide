@@ -13,7 +13,7 @@ Official page: https://mathemalchemy.org/team-24-mathematicians-artists-of-mathe
 | **Ingrid Daubechies** | Mathematician, Duke; signal/image/data analysis; **project co-founder** |
 | **Dominique Ehrmann** | Fiber & media artist; quilting/textiles; **project co-founder & lead fabricator** |
 | Rochy Flint | Mathematician & educator; Teachers College, Columbia; founder of MathChavrusa |
-| Faye Goldman | Modular origami & snapology; published author — see [[The Garden and Reef]]. |
+| Faye Goldman | Modular origami & snapology; published author — see [[The Garden and Reef]] |
 | Susan Goldstine | Math professor, St. Mary's College of Maryland; bead crochet — [[Cryptography Quilt]], [[Quiltlet]], [[The Curio Shop]] |
 | Edmund Harriss | Mathematician & artist, U. Arkansas; 3D printing, CNC — [[The Cavalcade]] |
 | Li-Mei Lim | Research asst. professor, Boston University; analytic number theory — [[The Garden and Reef]] |
@@ -21,7 +21,7 @@ Official page: https://mathemalchemy.org/team-24-mathematicians-artists-of-mathe
 | Vernelle A. A. Noel | Architect, Georgia Tech; design computation |
 | Elizabeth Paley | Science writer & ceramicist, Duke — [[Cryptography Quilt]], [[Knotical (Knotilus Bay)]] |
 | Kathy Peterson | Administrative coordinator, Duke; craft enthusiast |
-| Samantha Pezzimenti | Asst. teaching professor (local to Philly!); topology & knot theory — [[Ball Arches]], [[Knotical (Knotilus Bay)]]. |
+| Samantha Pezzimenti | Asst. teaching professor (local to Philly!); topology & knot theory — [[Ball Arches]], [[Knotical (Knotilus Bay)]] |
 | Tasha Pruitt | Visual artist inspired by nature & science |
 | Kimberly Roth | Math & statistics, Juniata College; recreational math, knitting |
 | Henry Segerman | Assoc. professor, Oklahoma State; 3D printing & math visualization — [[Ball Arches]], [[The Lighthouse]], [[The Cavalcade]] |
@@ -32,7 +32,9 @@ Official page: https://mathemalchemy.org/team-24-mathematicians-artists-of-mathe
 | Mary Williams | Fiber artist; Celtic knots, mathematical textiles |
 | Carolyn Yackel | Math professor, Mercer University; mathematical fiber arts — [[Quiltlet]], [[Ball Arches]], [[Frieze Tables]] |
 
-## Notes for MCCC hosting
-- **Samantha Pezzimenti** is in the Philadelphia region and **has volunteered to help at MCCC**. Natural contact for a campus talk or docent training session.
-- **Faye Goldman** is also in email contact and **has volunteered to help at MCCC** — origami/snapology workshop potential., [[The Garden and Reef]]
-- Ingrid Daubechies has given public talks alongside prior exhibitions (e.g., Pi Day at UQAM 2025).
+## Local contacts
+Team members in or near the Philadelphia region. This list will grow — other team members and local math faculty from nearby schools may get involved.
+
+- **Samantha Pezzimenti** — topology & knot theory → [[Ball Arches]], [[Knotical (Knotilus Bay)]]
+- **Faye Goldman** — modular origami & snapology → [[The Garden and Reef]]
+

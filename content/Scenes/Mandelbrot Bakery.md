@@ -30,5 +30,5 @@ Seed rule: *"Clap, then turn 90°."* Iterate four times — you've traced a squa
 ## Cross-links
 Fractal-tour trio: [[The Cavalcade]] (Koch snowflake) → here (Mandelbrot) → [[The Garden and Reef]] (fractal growth in nature).
 
-## My notes (after seeing it at ICM)
+## Additional Notes
 -
