@@ -1,16 +1,21 @@
 ---
 tags: [scene]
 math: [fluid-dynamics, chaos]
-verified-against-official-site: false
+verified-against-official-site: true
 ---
 # Silhouettes and Vortices
 
 **Math:** [[Fluid Dynamics and Vortices]]
-**Creators (per EntreEd guide):** Dominique Ehrmann, Kim Whittemore, and the core artistic team
+**Creators:** a whole-team piece — the official page names no individual creators. *(The EntreEd guide's "Kim Whittemore" credit was fabricated — absent from the AMS Notices Aug 2022 team roster.)*
 **Official page:** https://mathemalchemy.org/2022/01/12/math-connections-in-the-silhouettes-and-vortex-sheet/
 
 ## What it is
-Silhouettes threaded with swirling "smoke" — visual renderings of **von Kármán vortex streets**, the alternating swirls that form when flow passes an obstacle. The hidden order inside turbulence.
+Three human silhouettes experiencing mathematics at different ages, threaded through swirling vortices — the alternating swirls that form when flow passes an obstacle (reproducible in numerical solutions of the **Navier–Stokes equations**; vortices recur in [[The Mural]] and [[The Cavalcade]]):
+- a **child** improvising music on a trumpet — the mute in its opening spawns the vortex pattern (she perches on the [[Stack of Books]]);
+- a **teenager** surfing a self-built rocket board across a swirling vortex of ideas, trailing the encoded pennant;
+- an **adult** releasing an exuberant cavalcade of mathematical notes and jottings into the world.
+
+Per the AMS Notices article, the three are **deliberately coded as female** — 20 of the 24 core mathemalchemists are women, and the scene supports "the cultural shift that is making mathematics a more gender-inclusive field." Whether they are observing Mathemalchemy or imagining it into existence is left to the viewer.
 
 ## Docent questions
 - "Can you find the swirling smoke patterns? What do they remind you of in the real world?"

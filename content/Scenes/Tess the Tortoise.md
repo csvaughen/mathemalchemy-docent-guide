@@ -27,5 +27,9 @@ Pick a line on the floor; the group stands a few feet back. Repeat the instructi
 
 **Takeaway:** infinity can be tamed by a limit — infinitely many small steps can still lead to a definite end.
 
+## Lore (AMS Notices, Aug 2022)
+- Tess "keeps herself busy by walking Zeno's Path **every day**," towing her **Sierpiński kite**; the path is entered through an ornamental gate, and she keeps a **to-do list**.
+- Running gag from the article's dialogue: Arnold the cat races Tess on Zeno's Path every visit and can never catch up — "this trail always takes forever. Why don't we just aim for the playground instead?" (A fun way to stage the paradox on tours.)
+
 ## Additional Notes
 -

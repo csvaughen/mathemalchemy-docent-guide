@@ -11,7 +11,9 @@ verified-against-official-site: false
 **Official page:** https://mathemalchemy.org/2022/01/11/math-connections-in-the-ball-arches/
 
 ## What it is
-Arches of embroidered temari balls that shrink term by term — a physical picture of a **convergent series**: infinitely many balls, finite total height. You are literally looking at an infinite sum equaling a finite number.
+**Two** arches of thread-wrapped balls rising above the garden (AMS Notices, Aug 2022): one illustrates a **converging geometric series** (it reaches upward), the other a **diverging series** (it plunges into the bay). Ball diameters follow the ratio $(n/(n+1))^{2/3}$. Infinitely many balls, finite total height on the convergent side — you are literally looking at an infinite sum equaling a finite number.
+
+**Easter egg:** of the 120+ balls, **exactly 22 are embroidered — the ones at twin-prime indices** — in the Japanese **temari** folk art, tying the arches to the primes theme in the garden below. (Embellishing all 120+ was neither feasible nor visually desirable; the twin primes gave "a manageable number of temari and a pleasingly irregular arrangement.")
 
 ## Docent questions
 - "If we kept adding smaller and smaller balls forever, would the arch hit the ceiling — or stop at a certain height?"

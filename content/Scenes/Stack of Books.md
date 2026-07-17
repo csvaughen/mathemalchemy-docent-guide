@@ -27,4 +27,4 @@ One student stands on an agreed "axiom" spot ("the floor is solid"). Others join
 **Takeaway:** logic is a chain — solid starting truths plus proven steps make secure arguments (and secure technology).
 
 ## Additional Notes
--
+- Per the AMS Notices article (Aug 2022), the **child silhouette perches atop the stack of books, blowing into a trumpet** — this scene physically supports the youngest of the three [[Silhouettes and Vortices|silhouettes]]; a natural tour segue.

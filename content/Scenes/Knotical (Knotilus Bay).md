@@ -27,6 +27,11 @@ Circle up; everyone grabs two non-adjacent hands. Untangle without letting go. S
 
 **Takeaway:** knot math runs from sailing to molecular medicine.
 
+## Lore (AMS Notices, Aug 2022)
+- **Herons run a knot "tag-and-release" program** in the bay, classifying new knots "by the netload" and singing a sea shanty of **Reidemeister moves** ("Then along came Reidemeister — twist, poke, slide — he made his move") that name-checks real knots: the **Cinquefoil** and the **Stevedore**.
+- **Three penguins — Adélie, Chinstrap, and Gentoo** (the species of genus *Pygoscelis*) — perch in the crow's nest as "visiting scholars, knot theorists by trade," studying *amphichiral theta-curves*. (Knotted theta-curves are a genuine research topic; the article gleefully admits "amphibichiral" and "invertiblate" are made-up words.)
+- The herons' fieldwork found "empirically what theorists thought were lore" — a playful nod to experimental mathematics.
+
 ## Biology & biotech connections 
 
 Hooks to invite bio, microbio, and biotech faculty and their students. Brief on purpose — conversation starters, not lectures.
