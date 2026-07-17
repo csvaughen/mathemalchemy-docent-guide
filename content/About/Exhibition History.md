@@ -16,9 +16,8 @@ Official events page: https://mathemalchemy.org/events/
 | Université du Québec à Montréal (UQAM) | Montreal, Canada | Nov 6, 2024 – May 2, 2025 |
 | **MatemAlquimia**, Universum Museum (UNAM) | Mexico City, Mexico | Nov 28, 2025 – Jun 20, 2026 |
 | **ICM 2026** | Philadelphia, PA | **Jul 23–30, 2026** |
-| **Montgomery County Community College** | Blue Bell, PA (approx. 2 months) | **following ICM — dates TBD** |
+| **Montgomery County Community College** | Blue Bell, PA | **Aug 10 – Oct 9, 2026** |
 
 Notes:
 - A Spanish-language version (*MatemAlquimia*) ran in Mexico City, tied to UNAM's applied-math institute anniversary — evidence the exhibit adapts well to local audiences and languages.
-- Prior venues (MoMath, UQAM, NKU) likely produced docent materials and programming worth requesting. → [[Docent Guide - How to Use]]
 
