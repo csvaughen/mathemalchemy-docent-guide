@@ -45,16 +45,6 @@ Hooks to invite bio, microbio, and biotech faculty and their students. Brief on 
 - **DNA nanotechnology / DNA origami** — biotech students actually *build* designed knots and links out of DNA; the reef's [[The Garden and Reef|folded-paper origami]] is a nice visual bridge.
 - **Site-specific recombination** — enzymes that cut-and-rejoin DNA change its knot type; mathematicians (tangle calculus) model these reactions with knot theory to predict enzyme mechanisms.
 
-### The Greenland shark — a real-world tie-in (*not* part of the actual scene)
-*Not part of the installation.* The official bay is stocked with knot-pun creatures (a self-knotting "Knottie" sea serpent, an octopus, "knottibranch" nudibranchs, a starfish). But it's fun to imagine a real animal cruising the dark water below — the **Greenland shark** — and it connects straight to this scene's DNA theme:
-
-- One of the **longest-lived vertebrates known** — radiocarbon dating of eye tissue *estimates* lifespans of roughly **250–500 years** (wide error bars; often cited as "at least ~270"). A large individual (~15 ft) may predate the founding of the United States.
-- Researchers are **investigating why** these sharks stay healthy so long — including unusually effective **DNA maintenance and repair** and low apparent cancer rates. This is an active hypothesis, **not** settled fact.
-- The link to Knotical: DNA repair and topology are two sides of one coin. Topoisomerases untangle DNA; longevity research asks how animals keep their DNA intact across centuries. Same molecule, complementary questions.
-- Part of the broader **comparative genomics of long-lived species** (bowhead whale, naked mole-rat, Greenland shark) — a field MCCC biology/biotech faculty will recognize.
-
-**Docent line (honest version):** "This bay has a self-knotting sea serpent — pure whimsy. But in the *real* deep North Atlantic swims the Greenland shark, possibly 400 years old, and scientists are studying whether its knack for keeping its DNA intact is part of the secret." → [[Knot Theory]]
-
 ## Additional Notes
 **Local connections:** Samantha Pezzimenti (creator; also a creator on [[Ball Arches]])
 

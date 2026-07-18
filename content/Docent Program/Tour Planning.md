@@ -20,14 +20,3 @@ Draft themed routes through the 16 scenes. Timings assume ~3–4 min/scene plus 
 ## Route D — "Nature's Mathematics" (~20 min, science students)
 [[The Garden and Reef]] → [[Silhouettes and Vortices]] → [[Knotical (Knotilus Bay)]] → [[The Lighthouse]]
 *Arc: coral geometry → hurricane math → DNA knots → navigating a curved planet.*
-
-## Audience adaptations
-- **School groups (K-12):** lead with characters (Tess, chipmunks, OctoPi), one activity per 2–3 scenes, Route B or D.
-- **MCCC students:** match route to their course — Route A for calc sequence, B for liberal-arts math, C for gen-ed/honors.
-- **Faculty/general public:** origin story + 4–5 scenes of their choosing; emphasize the collaboration story ([[About Mathemalchemy]]).
-- **ICM mathematicians:** they know the math — docents should lead with *craft and fabrication* instead (see the [Fabrication page](https://mathemalchemy.org/fabrication/)).
-
-## To do
-- [ ] Get/keep floor plan at ICM; annotate actual scene adjacencies
-- [ ] Time one real walkthrough
-- [ ] Note accessibility considerations (sightlines, crowd flow, seating)
