@@ -6,7 +6,7 @@ verified-against-official-site: true
 # Silhouettes and Vortices
 
 **Math:** [[Fluid Dynamics and Vortices]]
-**Creators:** a whole-team piece — the official page names no individual creators. *(The EntreEd guide's "Kim Whittemore" credit was fabricated — absent from the AMS Notices Aug 2022 team roster.)*
+**Creators:** Dominique Ehrmann, Ingrid Daubechies, Edmund Harriss, Stephan LaCourse and others
 **Official page:** https://mathemalchemy.org/2022/01/12/math-connections-in-the-silhouettes-and-vortex-sheet/
 
 ## What it is
@@ -36,5 +36,5 @@ A single-file line is the *stream*; one student mid-room is the *obstacle*. Pass
 The skateboarder's pennant flag is not decoration: every column of squares encodes one letter in **8-bit binary (ASCII)**, and the tiny **Mars rover silhouette** at the pennant's tip is a thematic clue. There *is* a real message — challenge visitors to crack it, and don't give it away. Full activity (binary/ASCII decode + the Shannon guessing game): [[Decode the Banner]].
 
 ## Additional Notes
-- Connects to my seismic analysis interests — wave phenomena, turbulence-adjacent modeling.
--
+- 
+
