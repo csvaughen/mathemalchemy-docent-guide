@@ -7,10 +7,8 @@ A study guide and docent handbook for **[Mathemalchemy](https://mathemalchemy.or
 
 > *"A garden of mathematical delights... for everyone."*
 
-**New docent? Start here:** [[Docent Guide - How to Use]] — the three questions and the four-beat script that make any scene tourable.
-
 ## Start here
-- [[About Mathemalchemy]] — what it is, origin story, by the numbers
+- [[About Mathemalchemy]] — what it is, origin story, installation characters and scenes
 - [[The Team]] — the 24 mathematical artists & artistic mathematicians
 - [[Exhibition History]] — where it has been, where it's going
 - [[About This Guide]] — what this site is, credits, and verification status
@@ -35,8 +33,8 @@ A study guide and docent handbook for **[Mathemalchemy](https://mathemalchemy.or
 | [[Lebesgue Terrace]] | [[Measure Theory and the Lebesgue Integral]] |
 | [[Frieze Tables]] | [[Frieze Groups]] |
 
-## Docent program
-- [[Docent Guide - How to Use]] — the core method
+## Docent - guided discovery and additional resources
+- [[Docent Guide - How to Use]] — guided discovery ideas and activities
 - [[Activities Index]] — all the hands-on activities at a glance
 - [[Tour Planning]] — four themed routes (A–D), timing, audience matching
 - 🚩 [[Decode the Banner]] — the skateboarder's flag hides a **real message in binary**. Crack it, then play Claude Shannon's guessing game. (No spoilers on this site!)

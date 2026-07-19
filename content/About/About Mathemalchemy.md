@@ -15,8 +15,10 @@ To showcase mathematics as creative, beautiful, and welcoming — "a garden of m
 - **July 2021** — Three-week in-person assembly at Duke University's Rhodes Information Initiative.
 - **January 2022** — Began touring (see [[Exhibition History]]).
 
-## Cast of characters within the Installation
-The installation is populated by animal characters, most named for mathematicians or mathematical objects, and three human figures, whether they are observing, inside or imagining the Mathemalchemy world into existence is a question left to open.
+## 16 Scenes and countless topics
+The installation consists of 16 **scenes** that illustrate a wide range of **mathematical ideas and topics** — browse them all in the **[[Scene and Topic Index]]**.
+## Cast of characters
+The installation is populated by animal characters, most named for mathematicians or mathematical objects, and by three human figures.  Whether the human figures are observing the world of Mathemalchemy from within it, or from the outside, or imagining it all into existence is a question left for us all to wonder.
 
 - **Tess the Tortoise** (knitted, ceramic shell) walks Zeno's Path daily → [[Tess the Tortoise]]
 - **Arnold** the baker cat (for Vladimir Arnold) and his assistant **Mo[u]se** (for Jürgen Moser — together, the KAM theorem) → [[Mandelbrot Bakery]]
