@@ -37,7 +37,7 @@ The flag is about 200 squares, but the message doesn't *contain* 200 squares' wo
 
 > binary code → Shannon's bits → the 1951 guessing game → autocorrect and predictive text → large language models
 
-**Shannon the tinkerer (docent color):** Shannon juggled, rode a unicycle through the halls of Bell Labs, and built gleefully unnecessary machines — a flame-throwing trumpet, a Roman-numeral calculator called THROBAC, and Theseus, a maze-learning mechanical mouse that was one of the first machine-learning devices ever built. *"Serious math, made by people playing"* — he would have loved Mathemalchemy.
+**Shannon the tinkerer:** Shannon juggled, rode a unicycle through the halls of Bell Labs, and built gleefully unnecessary machines — a flame-throwing trumpet, a Roman-numeral calculator called THROBAC, and Theseus, a maze-learning mechanical mouse that was one of the first machine-learning devices ever built. *"Serious math, made by people playing"* — he would have loved Mathemalchemy.
 
 ## Why this activity earns its spot
 One small detail on one flag unfolds into binary, ASCII, codebreaking tactics, a Mars rover, the invention of the bit, a 1951 guessing game, and the AI in your pocket. Every scene in Mathemalchemy is dense like this — pull any thread and it keeps going. → [[Cryptography Quilt]] makes the natural next stop: redundancy is the codebreaker's best friend, so real ciphers work hard to destroy it (Shannon founded that mathematics too).
