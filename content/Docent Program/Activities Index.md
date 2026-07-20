@@ -24,10 +24,8 @@ All 16 hands-on activities from the EntreEd guide, one line each. Full instructi
 | [[The Mural]]                | Perspective Pinch         | Pinch the far wall between your fingers                  | None         |
 | [[Mandelbrot Bakery]]        | Action Iteration Loop     | "Clap, step, turn 90°" iterated → spiral                 | Small        |
 | [[The Curio Shop]]           | Polyhedra Auction         | Guess solids from V/E/F clues (Euler's formula)          | None         |
-| [[The Terrace]]              | *(none yet)* ⚠️            | Needs an activity for Baker's map / traveling waves / wallpaper groups / Johnson solids / Poincaré | —            |
+| [[The Terrace]]              | *(none yet)*              | Baker's map / traveling waves / wallpaper groups / Johnson solids / Poincaré | —            |
 | [[Frieze Tables]]            | Frieze Scavenger Hunt     | Find a border in the room; body-code its symmetry        | Any          |
-
-⚠️ **Open (Jul 20 2026):** "Rising Tide Measurement" moved to [[Tess the Tortoise]] (it was misassigned — see that scene's verification note); [[The Terrace]] café scene now has no activity of its own. Candidates: a Baker's-map fold-and-stretch movement, or a wallpaper-group symmetry-spotting game.
 
 ## Special: the hidden-message activity
 | Scene | Activity | One line | Space needed |
