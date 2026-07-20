@@ -1,16 +1,16 @@
 ---
 tags: [scene]
 math: [cryptography, coding-theory]
-verified-against-official-site: false
+verified-against-official-site: true
 ---
 # Cryptography Quilt
 
 **Math:** [[Cryptography]]
-**Creators (per EntreEd guide):** Susan Goldstine and Elizabeth Paley
+**Creators (per EntreEd guide, corroborated by the AMS Notices article):** Susan Goldstine and Elizabeth Paley
 **Official page:** https://mathemalchemy.org/2022/01/23/mathematical-connections-in-the-cryptography-quilt/
 
 ## What it is
-A quilt of **27 distinct blocks**, each representing a different encryption method or historical cipher — secrets hidden in plain sight through pattern. There is a genuine hidden message: the official *Decoding the Ternary Message* worksheet (Pascal's Triangle + base-3) walks visitors through decrypting it.
+A quilt of **20 labeled blocks (A–T)**, arranged clockwise in four tiers of increasing complexity — basic symbols, historical ciphers, complex ciphers, modern mathematical cryptography — around a central padlock. Secrets hidden in plain sight through pattern, and genuinely decodable, not decorative: the padlock itself carries an 8-bit **binary/ASCII** message, and the ring of colored squares circling it carries a second message in **ternary (base-3)**, using three shades of blue for the digits 0, 1, and 2. The official *Decoding the Ternary Message* worksheet walks through building a full A–Z decoder dictionary for the ternary one.
 
 ## Docent questions
 - "What if I told you you're learning about quantum cryptography right now?"
