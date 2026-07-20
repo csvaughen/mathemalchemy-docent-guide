@@ -23,16 +23,6 @@ Tess is the exhibit's beloved mascot — a knitted tortoise with a ceramic shell
 - **Lebesgue integral** — measuring by horizontal slices (function value), vs. the Riemann integral's vertical slices (domain) — staged here as terraces vs. cliffs.
 - **Hilbert's Hotel** — a hotel with infinitely many rooms, always full, that can still make room for infinitely many new guests — a hands-on paradox of countable infinity.
 
-## Activity: "Asymptotic Approach" (Zeno's Path)
-Pick a line on the floor; the group stands a few feet back. Repeat the instruction: *"Take a step covering exactly half the remaining distance."* Steps become tiny shuffles — the group converges on the line without crossing it. The **limit** of the journey is exactly that line.
-
-**Takeaway:** infinity can be tamed by a limit — infinitely many small steps can still lead to a definite end.
-
-## Activity: "Rising Tide Measurement" (Integral Hill)
-Everyone stands in an imaginary dry pool. Call rising "water levels" — knees! waist! shoulders! — freezing everyone below each line. You've measured the group layer-by-layer (horizontal, Lebesgue-style, like climbing the terraces) rather than person-by-person (vertical, Riemann-style, like the cliffs' dowels).
-
-**Takeaway:** slicing the world horizontally is often the smartest way to measure complexity — and this hill stages both methods side by side so you can compare them directly.
-
 ## Lore (AMS Notices, Aug 2022 + official fabrication page)
 - Tess "keeps herself busy by walking Zeno's Path **every day**," towing her **Sierpiński kite**; the path is entered through an ornamental gate, and she keeps a **to-do list** — the same one that appears on the Riemann Wall billboard.
 - Running gag from the AMS article's dialogue: Arnold the cat races Tess on Zeno's Path every visit and can never catch up — "this trail always takes forever. Why don't we just aim for the playground instead?"

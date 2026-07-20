@@ -21,10 +21,5 @@ A curated stack of (fabricated) mathematical texts — with origami flowers — 
 - **Theorem** — a statement proven from axioms and earlier theorems.
 - **Mathematical bibliography** — the visual lineage of books from ancient geometry to modern theory.
 
-## Activity: "The Unbreakable Axiom Stand"
-One student stands on an agreed "axiom" spot ("the floor is solid"). Others join a chain only by adding a valid logical consequence ("because the floor is solid, I can stand here…"). Invalid links can't join. Knowledge is only as tall as its foundation is solid.
-
-**Takeaway:** logic is a chain — solid starting truths plus proven steps make secure arguments (and secure technology).
-
 ## Additional Notes
 - Per the AMS Notices article (Aug 2022), the **child silhouette perches atop the stack of books, blowing into a trumpet** — this scene physically supports the youngest of the three [[Silhouettes and Vortices|silhouettes]]; a natural tour segue.

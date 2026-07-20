@@ -22,11 +22,6 @@ A bakery run by **Arnold the cat** and his assistant **Mo[u]se**, where the cook
 - **Iteration** — repeatedly applying a function, like kneading dough.
 - **Self-similarity** — parts resembling the whole at every zoom level.
 
-## Activity: "Action Iteration Loop"
-Seed rule: *"Clap, then turn 90°."* Iterate four times — you've traced a square. Add a constant: *"Clap, step forward, turn 90°"* — now iteration traces a moving spiral. The Mandelbrot set is nothing but a seed rule (z² + c) iterated millions of times.
-
-**Takeaway:** iteration is the universe's recipe — and the trick behind fractal compression of images and video.
-
 ## Cross-links
 Fractal-tour trio: [[The Cavalcade]] (Koch snowflake) → here (Mandelbrot) → [[The Garden and Reef]] (fractal growth in nature).
 

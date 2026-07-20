@@ -22,10 +22,5 @@ A large perspective-driven mural — painted, in the exhibit's story, by **OctoP
 - **Vanishing point** — where parallel lines appear to meet in a perspective drawing.
 - **Perspective** — the technique that creates the illusion of depth.
 
-## Activity: "Perspective Pinch"
-Look down the long axis of the gallery; pinch the air where the top and bottom of the far wall appear to meet. Fingers nearly touch though the wall is ten feet tall — your brain performing a live linear projection, the same math as every 3D game engine.
-
-**Takeaway:** perspective is a mathematical hack of the eye — the foundation of VR.
-
 ## Additional Notes
 -

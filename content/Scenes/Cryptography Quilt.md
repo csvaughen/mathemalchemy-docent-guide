@@ -21,10 +21,8 @@ A quilt of **20 labeled blocks (A–T)**, arranged clockwise in four tiers of in
 - **Cipher** — the specific algorithm used to encrypt.
 - **Quantum cryptography** — secure communication using quantum mechanics (e.g., light particles) to create codes that reveal any eavesdropping.
 
-## Activity: "Human Public-Key Exchange"
-Pairs must send a secret number (1–5) while "hackers" (everyone else) watch. Announce a public key ("add 2"); the sender holds up secret + key fingers; the partner subtracts to decrypt. Simulates how modular arithmetic scrambles and unscrambles messages.
-
-**Takeaway:** math is the invisible shield of digital life; post-quantum math is the next frontier.
+## Hidden messages
+The padlock and the ring of colored squares around it both carry genuine hidden messages — not decoration. The padlock hides an **8-bit binary/ASCII** message, the same code as the [[Silhouettes and Vortices]] banner; the ring hides a second message in **ternary (base 3)**, using three shades of blue for its digits. There *are* real messages — challenge visitors to crack them, and don't give it away. Full activities: [[Decode the Padlock]] and [[Decode the Ring]].
 
 ## Tour tip (from the guide's own example, p. 35)
 This scene is the guide's worked example of the 4-beat script: *What do you see? → surprising fact → explain the concepts → hands-on: assign pairs to a block to puzzle out its message.* → [[Docent Guide - How to Use]]

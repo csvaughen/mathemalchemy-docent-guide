@@ -24,11 +24,6 @@ verified-against-official-site: false
 - **Convergent series** — an infinite sum approaching a specific finite value.
 - **Temari** — the Japanese embroidery art rendering each term of the sequence as a physical object.
 
-## Activity: "Human Wave Arch"
-Line up tallest → shortest; each person reaches slightly lower than the last, forming a slope. Everyone pulses hands within their own height zone: many terms, but the arch stays under a fixed bound — a living convergent series.
-
-**Takeaway:** many small terms can add to a big but *stable* result.
-
 ## Cross-links
 Same core math as [[Tess the Tortoise]] (Zeno's ½ + ¼ + ⅛ + … = 1), rendered in a different craft — a nice pairing on tours.
 

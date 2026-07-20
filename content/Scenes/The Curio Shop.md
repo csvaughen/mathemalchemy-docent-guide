@@ -29,10 +29,5 @@ A fine-math gallery — **"Conway's Curios"** — of mathematical gems: **Johnso
 - **Johnson solid** — a strictly convex polyhedron whose faces are all regular polygons (excluding the uniform ones); exactly 92 exist.
 - **Mechanism** — a device like the Antikythera mechanism that computed astronomical positions mechanically.
 
-## Activity: "The Polyhedra Auction"
-Describe a solid without naming it ("8 corners, 6 identical faces") — students bid by shouting the name (Cube!). Escalate with **Euler's formula** V − E + F = 2: "4 corners, 4 faces — how many edges am I holding?" (6 — tetrahedron!). Chemists play this game with molecular shapes.
-
-**Takeaway:** all solids obey the same shape laws — the DNA of crystals and architecture.
-
 ## Additional Notes
 -

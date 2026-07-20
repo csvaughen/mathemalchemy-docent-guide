@@ -22,11 +22,6 @@ The bay's lighthouse — a focal point for **spherical coordinates**, triangulat
 - **Spherical coordinates** — 3D "GPS addresses" for points on a sphere.
 - **Wave propagation** — how light or sound travels through space over time.
 
-## Activity: "The Triangulation Pointer"
-Pick a target "ship" in the room. Two students in different corners are "lighthouses," each pointing an arm at it. Knowing the distance between the lighthouses and the two arm angles, sines and cosines pin the ship's exact position. That's GPS, 2,000 years early.
-
-**Takeaway:** triangles are the strongest shape in construction *and* navigation.
-
 ## Construction & lore (AMS Notices, Aug 2022)
 - The shape is a **perturbed hyperboloid of one sheet**, chosen so one **line of principal curvature** forms the gentle spiral ramp. It's built from welded metal strips with T- or L-shaped cross-sections laid along lines of principal curvature — the **Darboux frame** has no torsion there, so the strips bend without twisting. This math was developed *for* the build — "mathematics developed specifically in response to the challenges of constructing our vision."
 - **Nine feet tall**; a **Fresnel lens** projects the beam through a **stained-glass dodecahedron**. Footnote gem: unlike the other four Platonic solids, the dodecahedron admits geodesic paths from a vertex back to itself that avoid every other vertex (published May 2020).

@@ -24,11 +24,6 @@ A garden and coral reef of **hyperbolic crochet** and folded paper — surfaces 
 - **Fractal growth** — small parts resembling the whole.
 - **Riemann surface** — a complex-analysis surface, visualized in the garden's "cliffs."
 
-## Activity: "Parallel Divergence Walk"
-Two students walk side by side, one foot apart. In flat space they'd stay parallel forever. On the "hyperbolic reef," each forward step adds a half-step apart — the gap grows exponentially. That's negative curvature, nature's trick for cramming surface area into coral and kale.
-
-**Takeaway:** nature is a hyperbolic engineer.
-
 ## Additional Notes
 **Local connections:** Faye Goldman (creator — origami/snapology)
 

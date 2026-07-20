@@ -22,10 +22,5 @@ Tables whose border designs demonstrate the **seven frieze groups** — the only
 - **Reflection** — flip across a line (mirror).
 - **Translation** — slide along the line without rotating or flipping.
 
-## Activity: "Frieze Pattern Scavenger Hunt"
-60 seconds to find any border in the room (floor trim, window frame, shoe pattern) and "body-code" its symmetry: two steps for translation, open-book hands for reflection. Millions of artists, only 7 possible laws of linear design.
-
-**Takeaway:** symmetry is a universal law of balance, from Greek architecture to microchips.
-
 ## Additional Notes
 -

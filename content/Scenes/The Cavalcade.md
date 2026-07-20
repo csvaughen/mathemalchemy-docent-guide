@@ -22,11 +22,6 @@ Pages of a book "fall" and erupt into three-dimensional **Koch snowflakes** and 
 - **Recursive process** — a rule applied to its own output, over and over.
 - **Mathematical visualization** — turning abstract equations into models you can see and touch.
 
-## Activity: "Human Fractal Tree"
-One student is the trunk with two arms out; two students branch off each hand; four branch off those, and so on. One rule — "one becomes two" — grows a complex tree. That's how short DNA or code generates forests and circulatory systems.
-
-**Takeaway:** recursion is nature's copy-paste.
-
 ## Cross-links
 Pairs beautifully with [[Mandelbrot Bakery]] (iteration) on a fractal-themed tour leg.
 

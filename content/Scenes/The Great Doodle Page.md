@@ -24,10 +24,5 @@ A quilted "doodle page" visualizing the *thinking process* of great mathematicia
 - **Visual proof** — a diagram that shows *why* something is true without words or symbols.
 - **Geometric sketching** — drawing shapes to visualize spatial relationships.
 
-## Activity: "Air-Drafting Challenge"
-Eyes closed: imagine a cube floating in front of you. Mentally slice it from a top corner to the opposite bottom corner. Feel the new surface; open eyes and draw the cross-section in the air. Mental doodling explores 3D shapes no chalkboard can capture.
-
-**Takeaway:** doodling is a high-level thinking tool, not a distraction.
-
 ## Additional Notes
 -

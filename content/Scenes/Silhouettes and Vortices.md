@@ -27,11 +27,6 @@ Per the AMS Notices article, the three are **deliberately coded as female** — 
 - **Vortex street** — a repeating pattern of alternating swirls behind an obstacle.
 - **Turbulence** — unsteady flow governed by the mathematics of chaos.
 
-## Activity: "Vortex Street Simulation"
-A single-file line is the *stream*; one student mid-room is the *obstacle*. Passing students alternately spin left, then right — a walking von Kármán vortex street. This is the math behind quieter planes and slipperier cars.
-
-**Takeaway:** there's mathematics inside every breeze and ripple; modeling vortices is how we forecast storms.
-
 ## Hidden binary banner
 The skateboarder's pennant flag is not decoration: every column of squares encodes one letter in **8-bit binary (ASCII)**, and the tiny **Mars rover silhouette** at the pennant's tip is a thematic clue. There *is* a real message — challenge visitors to crack it, and don't give it away. Full activity (binary/ASCII decode + the Shannon guessing game): [[Decode the Banner]].
 
