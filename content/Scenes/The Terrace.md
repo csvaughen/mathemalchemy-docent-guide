@@ -24,9 +24,6 @@ Not to be confused with **Integral Hill**'s Lebesgue Terraces, a different featu
 - **Traveling wave** — a wave pattern that moves at constant shape and speed, common in fluids and PDEs.
 - **Dynamical system** — any rule for how a state evolves step by step; Poincaré's work on celestial mechanics founded the field.
 
-## Activity
-Still needs one of its own — "Rising Tide Measurement" (the EntreEd-derived horizontal-slicing activity) turned out to belong to [[Tess the Tortoise]]'s Integral Hill instead, and moved there. This scene's real content (Baker's map, traveling waves, wallpaper groups, Johnson solids, Poincaré) is untapped for an activity — tracked in [[Activities Index]].
-
 ## Cross-links
 Same folding-and-stretching idea as **Arnold the cat's** dough-kneading in [[Mandelbrot Bakery]] (Arnold's cat map, the KAM theorem) — the two scenes make a nice dynamical-systems pair even though they sit in different corners of the room.
 
