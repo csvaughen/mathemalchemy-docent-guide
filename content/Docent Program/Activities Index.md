@@ -10,6 +10,7 @@ All 16 hands-on activities from the EntreEd guide, one line each. Full instructi
 | Scene                        | Activity                  | One line                                                 | Space needed |
 | ---------------------------- | ------------------------- | -------------------------------------------------------- | ------------ |
 | [[Tess the Tortoise]]        | Asymptotic Approach       | Step half the remaining distance to a line, repeatedly   | Small        |
+| [[Tess the Tortoise]]        | Rising Tide Measurement   | Freeze at called water levels — Integral Hill's horizontal slicing | Medium       |
 | [[Cryptography Quilt]]       | Human Public-Key Exchange | Encrypt finger-counts with an announced "public key"     | Small        |
 | [[The Great Doodle Page]]    | Air-Drafting Challenge    | Mentally slice a cube; draw the cross-section in the air | None         |
 | [[Quiltlet]]                 | Symmetry Mimicry          | Two lines mirror/slide/rotate poses on command           | Medium       |
@@ -23,8 +24,10 @@ All 16 hands-on activities from the EntreEd guide, one line each. Full instructi
 | [[The Mural]]                | Perspective Pinch         | Pinch the far wall between your fingers                  | None         |
 | [[Mandelbrot Bakery]]        | Action Iteration Loop     | "Clap, step, turn 90°" iterated → spiral                 | Small        |
 | [[The Curio Shop]]           | Polyhedra Auction         | Guess solids from V/E/F clues (Euler's formula)          | None         |
-| [[Lebesgue Terrace]]         | Rising Tide Measurement   | Freeze at called water levels — horizontal slicing       | Medium       |
+| [[The Terrace]]              | *(none yet)* ⚠️            | Needs an activity for Baker's map / traveling waves / wallpaper groups / Johnson solids / Poincaré | —            |
 | [[Frieze Tables]]            | Frieze Scavenger Hunt     | Find a border in the room; body-code its symmetry        | Any          |
+
+⚠️ **Open (Jul 20 2026):** "Rising Tide Measurement" moved to [[Tess the Tortoise]] (it was misassigned — see that scene's verification note); [[The Terrace]] café scene now has no activity of its own. Candidates: a Baker's-map fold-and-stretch movement, or a wallpaper-group symmetry-spotting game.
 
 ## Special: the hidden-message activity
 | Scene | Activity | One line | Space needed |

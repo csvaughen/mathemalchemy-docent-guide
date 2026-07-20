@@ -6,8 +6,8 @@ tags: [docent]
 Draft themed routes through the 16 scenes. Timings assume ~3–4 min/scene plus one activity. **Revise all of this after seeing the physical layout at ICM.**
 
 ## Route A — "Infinity Tamed" (~25 min, calculus-flavored)
-[[Tess the Tortoise]] → [[Ball Arches]] → [[The Cavalcade]] → [[Mandelbrot Bakery]] → [[Lebesgue Terrace]]
-*Arc: infinite steps can end (limits) → infinite sums stay bounded (series) → infinite detail in finite space (fractals) → measuring the unmeasurable (Lebesgue).*
+[[Tess the Tortoise]] → [[Ball Arches]] → [[The Cavalcade]] → [[Mandelbrot Bakery]] → [[The Terrace]]
+*Arc: infinite steps can end (limits) → infinite sums stay bounded (series) → infinite detail in finite space (fractals) → simple rules gone chaotic (Baker's map).*
 
 ## Route B — "Pattern & Symmetry" (~20 min, accessible to all ages)
 [[Quiltlet]] → [[Frieze Tables]] → [[The Curio Shop]] → [[Cryptography Quilt]]

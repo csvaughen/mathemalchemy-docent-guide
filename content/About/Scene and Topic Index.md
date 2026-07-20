@@ -8,7 +8,7 @@ Sixteen scenes, each embodying real mathematics — and most touching more than 
 ## The 16 scenes and their core math
 | Scene | Core math |
 |---|---|
-| [[Tess the Tortoise]] | [[Zeno's Paradoxes and Limits]] |
+| [[Tess the Tortoise]] | [[Zeno's Paradoxes and Limits]], [[Measure Theory and the Lebesgue Integral]] |
 | [[Cryptography Quilt]] | [[Cryptography]] |
 | [[The Great Doodle Page]] | [[Axioms, Proofs, and Mathematical Intuition]] |
 | [[Quiltlet]] | [[Tessellations and Wallpaper Groups]] |
@@ -22,12 +22,13 @@ Sixteen scenes, each embodying real mathematics — and most touching more than 
 | [[The Mural]] | [[Projective Geometry and Perspective]] |
 | [[Mandelbrot Bakery]] | [[Fractals and Self-Similarity]] |
 | [[The Curio Shop]] | [[Polyhedra and Euler's Formula]] |
-| [[Lebesgue Terrace]] | [[Measure Theory and the Lebesgue Integral]] |
+| [[The Terrace]] | [[Dynamical Systems]] |
 | [[Frieze Tables]] | [[Frieze Groups]] |
 
 ## The math topics
 - [[Axioms, Proofs, and Mathematical Intuition]]
 - [[Cryptography]]
+- [[Dynamical Systems]]
 - [[Fluid Dynamics and Vortices]]
 - [[Fractals and Self-Similarity]]
 - [[Frieze Groups]]
