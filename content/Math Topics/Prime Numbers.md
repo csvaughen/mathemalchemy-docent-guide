@@ -10,5 +10,3 @@ Primes are the atoms of arithmetic: every integer > 1 factors uniquely into prim
 Primes also guard your data: public-key [[Cryptography]] rests on the difficulty of factoring huge numbers into their prime parts.
 
 **One-liner for tours:** "The chipmunks are sorting the atoms of arithmetic — the same numbers that lock your bank account."
-
-**Kid-friendly:** primes are the most accessible number theory on the tour — great stop for school groups.

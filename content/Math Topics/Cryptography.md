@@ -11,4 +11,3 @@ The quilt hides two messages: an 8-bit **binary/ASCII** code at the central padl
 
 **One-liner for tours:** "Math is the invisible shield protecting your texts, your bank, your photos."
 
-**Classroom tie-in (MCCC):** modular arithmetic (discrete math / math for liberal arts), number theory, computer science security courses.

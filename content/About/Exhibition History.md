@@ -18,6 +18,3 @@ Official events page: https://mathemalchemy.org/events/
 | **ICM 2026** | Philadelphia, PA | **Jul 23–30, 2026** |
 | **Montgomery County Community College** | Blue Bell, PA | **Aug 10 – Oct 9, 2026** |
 
-Notes:
-- A Spanish-language version (*MatemAlquimia*) ran in Mexico City, tied to UNAM's applied-math institute anniversary — evidence the exhibit adapts well to local audiences and languages.
-

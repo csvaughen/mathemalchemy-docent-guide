@@ -9,4 +9,3 @@ A **series** adds the terms of an infinite sequence. It **converges** when parti
 
 **One-liner for tours:** "You are looking at an infinite sum equaling a finite number."
 
-**Classroom tie-in (MCCC):** Calc II sequences & series — the exhibit's most direct calculus connection alongside [[Measure Theory and the Lebesgue Integral]].

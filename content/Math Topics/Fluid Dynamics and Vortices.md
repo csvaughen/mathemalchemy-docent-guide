@@ -11,4 +11,3 @@ The mathematics of how liquids and gases move — governed by the Navier–Stoke
 
 **One-liner for tours:** "This is the math behind a hurricane — and behind why flags flap."
 
-**Personal link:** wave propagation and chaotic dynamics also connect to my seismic analysis work — possible cross-disciplinary talk angle.

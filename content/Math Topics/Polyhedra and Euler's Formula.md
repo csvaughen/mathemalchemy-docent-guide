@@ -11,4 +11,3 @@ The zoo of 3D shapes with flat faces: 5 Platonic solids (identical regular faces
 
 **One-liner for tours:** "Every solid shape in the universe obeys one equation: corners minus edges plus faces equals two."
 
-**Activity:** "Polyhedra Auction" guessing game — see [[The Curio Shop]].
