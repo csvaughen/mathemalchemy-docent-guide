@@ -24,6 +24,9 @@ A quilt of **20 labeled blocks (A–T)**, arranged clockwise in four tiers of in
 ## Hidden messages
 The padlock and the ring of colored squares around it both carry genuine hidden messages — not decoration. The padlock hides an **8-bit binary/ASCII** message, the same code as the [[Silhouettes and Vortices]] banner; the ring hides a second message in **ternary (base 3)**, using three shades of blue for its digits. There *are* real messages — challenge visitors to crack them, and don't give it away. Full activities: [[Decode the Padlock]] and [[Decode the Ring]].
 
+## Block identification
+All 20 blocks (A–T) depict a real cipher or cryptographic idea, arranged in four tiers from basic symbols to modern mathematical cryptography — a natural first-five-minutes activity for a group walking in. Full block-by-block answer key: [[Cipher Safari]].
+
 ## Tour tip (from the guide's own example, p. 35)
 This scene is the guide's worked example of the 4-beat script: *What do you see? → surprising fact → explain the concepts → hands-on: assign pairs to a block to puzzle out its message.* → [[Docent Guide - How to Use]]
 

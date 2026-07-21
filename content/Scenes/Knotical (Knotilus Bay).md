@@ -22,10 +22,8 @@ The nautical bay scene — pun fully intended — featuring the **Knotilus** (a 
 - **Invariant** — a property unchanged under deformation.
 - **Logarithmic spiral** — the self-similar curve of the Knotilus shell (and nautilus, hurricanes, galaxies).
 
-## Activity: "Topological Untangle" (the classic Human Knot)
-Circle up; everyone grabs two non-adjacent hands. Untangle without letting go. Sometimes you get one clean circle, sometimes two linked ones — your *invariant* differed from the start. Topoisomerase enzymes do this to DNA constantly.
-
-**Takeaway:** knot math runs from sailing to molecular medicine.
+## Human knot
+Circle up; everyone grabs two non-adjacent hands, then try to untangle without letting go. It's an open experiment, not a scripted puzzle — sometimes you get one clean circle, sometimes two separate loops that can never join, and sometimes a single loop that's a genuine, provably un-untieable knot. Topoisomerase enzymes wrestle with exactly this problem in DNA, constantly. Full activity, with the questions worth exploring while you're tangled: [[Stuck or Knot]].
 
 ## Lore (AMS Notices, Aug 2022)
 - **Herons run a knot "tag-and-release" program** in the bay, classifying new knots "by the netload" and singing a sea shanty of **Reidemeister moves** ("Then along came Reidemeister — twist, poke, slide — he made his move") that name-checks real knots: the **Cinquefoil** and the **Stevedore**.

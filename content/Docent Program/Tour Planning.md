@@ -3,7 +3,7 @@ tags: [docent]
 ---
 # Tour Planning
 
-Draft themed routes through the 16 scenes. Timings assume ~3–4 min/scene plus one activity. **Revise all of this after seeing the physical layout at ICM.**
+Optional focused or guided discovery routes for docents and instructors:
 
 ## Route A — "Infinity Tamed" (~25 min, calculus-flavored)
 [[Tess the Tortoise]] → [[Ball Arches]] → [[The Cavalcade]] → [[Mandelbrot Bakery]] → [[The Terrace]]
