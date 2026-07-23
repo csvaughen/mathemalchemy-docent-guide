@@ -16,6 +16,17 @@ The skateboarder in [[Silhouettes and Vortices]] carries a pennant flag covered 
 - **A real cryptanalyst's opening move:** don't decode letter by letter from the start. First find the **spaces** (columns that are almost entirely black, with a single white square). Mark them and you know the *shape* of the message — how many words, and how long each one is — before reading a single letter. Codebreakers have started exactly this way for centuries.
 - **The clue on the tip:** the tiny **Mars rover** silhouette at the pennant's tip hints at the theme of the message.
 
+## Where this code comes from
+Every quirk you decode on the flag was a decision made for a machine that no longer exists.
+
+- **1870s — the 5-bit ancestor.** Émile Baudot built a fixed-width, 5-bit telegraph code so a *machine* could read it. Morse can't: it's variable-length (`E` is one dot, `Q` is four symbols) and leans on a human ear for the gaps between letters. Baudot's name survives every time we say **baud**.
+- **The teleprinter.** A telegraph that types itself — you type a letter, a machine at the far end prints it, and nobody at either end needs to know Morse. They printed in **capitals only**, which is why old telegrams shout.
+- **1963 — ASCII.** Seven bits, 128 characters. Every bit cost real money to send down a wire, so nobody paid for an eighth. This version had **no lowercase at all**.
+- **1967 — lowercase arrives**, parked exactly **32** above each capital. That's why a single square decides the case, and why pressing **Shift** is, underneath, subtracting 32.
+- **The leftover square.** The 8-bit byte became standard only *afterward*, leaving ASCII's seven bits sitting inside it with one bit spare — the flag's all-black top row. That spare bit has since been spent on error checks, then on rival character sets, and now on UTF-8, which is how one code handles every writing system on earth.
+
+A fossil you can still touch: "carriage return" and "line feed" are two separate characters because on a teleprinter they were two separate mechanical actions — slam the printing carriage back to the left, then roll the paper up one line. Every text file on your computer still chooses between them.
+
 ## Gallery quick hit (3–5 min)
 1. Deliver the hook and give the encoding rule (white = 1, black = 0, eight per column).
 2. Have visitors decode **just the first column** with a decoder card.
@@ -43,5 +54,5 @@ The flag is about 200 squares, but the message doesn't *contain* 200 squares' wo
 One small detail on one flag unfolds into binary, ASCII, codebreaking tactics, a Mars rover, the invention of the bit, a 1951 guessing game, and the AI in your pocket. Every scene in Mathemalchemy is dense like this — pull any thread and it keeps going. → [[Cryptography Quilt]] makes the natural next stop: redundancy is the codebreaker's best friend, so real ciphers work hard to destroy it (Shannon founded that mathematics too).
 
 ## Materials
-Printable worksheet (the flag as a clean grid), decoder cards, and the Shannon-game score sheet exist as a three-page print pack — **along with the answer key, available from the docent coordinator.** The solution is deliberately kept off this site so visitors get the real thing: the moment the message comes up out of the squares for *them*.
+Three one-page printables — the flag as a clean grid, a decoder card, and the Shannon-game score sheet — **along with the answer key, available from the docent coordinator.** The decoder card teaches the structure above rather than just listing letters, so a student who works from it can rebuild any character from scratch. The solution is deliberately kept off this site so visitors get the real thing: the moment the message comes up out of the squares for *them*.
 
