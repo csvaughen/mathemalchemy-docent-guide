@@ -6,7 +6,7 @@ scene: "[[Silhouettes and Vortices]]"
 
 The skateboarder in [[Silhouettes and Vortices]] carries a pennant flag covered in small black and white squares. They are **not decoration**: the flag carries a genuine hidden message, and with nothing but patience you can read it. This is a decode-it-yourself activity for gallery visits or the classroom. *(No spoilers on this page — the message is not printed anywhere on this site.)*
 
-## The hook (docent script)
+## The hook 
 > "See the skateboarder's flag? Those aren't decoration — every column of squares is a letter, written in the same code your phone uses for every text you've ever sent. And the artists hid one extra trick in it. Want to crack it?"
 
 ## How the code works
@@ -54,5 +54,11 @@ The flag is about 200 squares, but the message doesn't *contain* 200 squares' wo
 One small detail on one flag unfolds into binary, ASCII, codebreaking tactics, a Mars rover, the invention of the bit, a 1951 guessing game, and the AI in your pocket. Every scene in Mathemalchemy is dense like this — pull any thread and it keeps going. → [[Cryptography Quilt]] makes the natural next stop: redundancy is the codebreaker's best friend, so real ciphers work hard to destroy it (Shannon founded that mathematics too).
 
 ## Materials
-Three one-page printables — the flag as a clean grid, a decoder card, and the Shannon-game score sheet — **along with the answer key, available from the docent coordinator.** The decoder card teaches the structure above rather than just listing letters, so a student who works from it can rebuild any character from scratch. The solution is deliberately kept off this site so visitors get the real thing: the moment the message comes up out of the squares for *them*.
+Two one-page printables, free to download and print:
+
+- **[[Decode the Banner - Worksheet.pdf|Worksheet (PDF)]]** — the flag redrawn as a clean 8×25 grid, one answer box per column. One per decoder.
+- **[[Decode the Banner - Decoder Card.pdf|Decoder card (PDF)]]** — how to turn a column of squares into a number, with two large worked examples. One per decoder.
+- **[[ASCII Table 0-127.pdf|ASCII table (PDF)]]** — all 128 characters on one page, for looking up the number once you've worked it out.
+
+The decoder card teaches the structure above rather than just listing letters, so a student who works from it can rebuild any character from scratch — it deliberately stops at the *number*, and the ASCII table finishes the job. A Shannon-game score sheet and the answer key are available from the docent coordinator. The solution is deliberately kept off this site so visitors get the real thing: the moment the message comes up out of the squares for *them*.
 

@@ -8,7 +8,7 @@ The classic human knot game — but played here as an open experiment, not a puz
 
 **5–15 minutes. 8+ people, more is better. Open floor space, no materials.**
 
-## The hook (docent script)
+## The hook
 > "Everyone grab two hands that aren't your own neighbors' — go! Now, without anyone letting go, try to untangle yourselves back into one circle. Here's the thing: I genuinely don't know if you can. Neither do you, yet. Let's find out — and figure out *why*."
 
 ## How to play

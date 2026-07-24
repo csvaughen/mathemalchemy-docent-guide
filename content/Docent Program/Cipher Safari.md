@@ -8,7 +8,7 @@ The [[Cryptography Quilt]] is 20 labeled blocks (A–T), arranged clockwise in f
 
 **5–20 minutes, scales with how many blocks you cover. Any group size.**
 
-## The hook (docent script)
+## The hook 
 > "Before I say a word — look at this quilt. Twenty panels, and every one of them is hiding a real code or cipher, from something Julius Caesar actually used to math that's still being invented today. Pick a block. What do you think it's showing?"
 
 ## How to play

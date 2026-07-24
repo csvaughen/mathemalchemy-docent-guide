@@ -6,7 +6,7 @@ scene: "[[Cryptography Quilt]]"
 
 Circling the [[Cryptography Quilt]]'s padlock is a ring of colored squares — three shades of blue, standing in for a number system most visitors have never used: **ternary (base 3)**. It hides a genuine message, and the exhibit's own official worksheet walks you through cracking it. *(No spoilers on this page — the message is not printed anywhere on this site.)*
 
-## The hook (docent script)
+## The hook 
 > "Our number system has a ones place, a tens place, a hundreds place. This code only has three digits total — 0, 1, 2 — so instead of a tens place, it has a *threes* place. Ready to build a whole new number system from scratch?"
 
 ## How the code works
@@ -26,5 +26,10 @@ Materials: the official **[Decoding the Ternary Message worksheet](https://mathe
 Almost everyone has an intuition for binary once they've seen it, but almost nobody has built a base-3 number system from scratch — this activity makes visitors invent an entire alphabet before they can read a single word. → [[Decode the Padlock]] hides a second message on the same object, in the base you already know.
 
 ## Materials
-Official worksheet (linked above). Answer key available from the docent coordinator.
+Two versions of the same worksheet — same content, same pre-filled cells, pick whichever suits your printer:
+
+- **[Official worksheet (PDF)](https://mathemalchemy.org/wp-content/uploads/2025/07/Decoding-the-Ternary-Message-Worksheet.pdf)** — from the Mathemalchemy team, with the code columns colored in three shades of blue. **Needs a color printer.**
+- **[[Decode the Ring - Worksheet - Black and White.pdf|Black-and-white version (PDF)]]** — the same sheet adapted so the color boxes are filled with the letters **L**, **B** and **D** (light, blue, dark) instead of shaded, with a key explaining them. Prints on any printer.
+
+The three blues come out as three near-identical greys on a black-and-white printer, which quietly destroys the puzzle — hence the letter version. Writing `L`/`B`/`D` has a side benefit: it makes the ternary digit visible (L = 0, B = 1, D = 2) instead of something a decoder holds in their head. Answer key available from the docent coordinator.
 
