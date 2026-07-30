@@ -8,7 +8,7 @@ A study guide and docent handbook for **[Mathemalchemy](https://mathemalchemy.or
 > *"A garden of mathematical delights... for everyone."*
 
 ## Start here
-- [[About Mathemalchemy]] — what it is, origin story, installation characters and scenes
+- [[About Mathemalchemy]] — what it is, origin story, official links, characters and scenes
 - [[The Team]] — the 24 mathematical artists & artistic mathematicians
 - [[Exhibition History]] — where it has been, where it's going
 - [[About This Guide]] — what this site is, credits, and verification status

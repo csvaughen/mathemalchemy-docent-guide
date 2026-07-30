@@ -5,7 +5,7 @@ verified-against-official-site: true
 ---
 # Silhouettes and Vortices
 
-**Math:** [[Fluid Dynamics and Vortices]]
+**Math:** [[Fluid Dynamics and Vortices]] · [[Dynamical Systems]] (Arnold's cat map)
 **Creators:** Dominique Ehrmann, Ingrid Daubechies, Edmund Harriss, Stephan LaCourse and others
 **Official page:** https://mathemalchemy.org/2022/01/12/math-connections-in-the-silhouettes-and-vortex-sheet/
 
@@ -29,6 +29,9 @@ Per the AMS Notices article, the three are **deliberately coded as female** — 
 
 ## Hidden binary banner
 The skateboarder's pennant flag is not decoration: every column of squares encodes one letter in **8-bit binary (ASCII)**, and the tiny **Mars rover silhouette** at the pennant's tip is a thematic clue. There *is* a real message — challenge visitors to crack it, and don't give it away. Full activity (binary/ASCII decode + the Shannon guessing game): [[Decode the Banner]].
+
+## Arnold's cat map
+At the feet of the **adult** silhouette is an image of **[Arnold's cat map](https://en.wikipedia.org/wiki/Arnold%27s_cat_map)** — a chaotic transformation that stretches and shears a picture of a cat across a square, then wraps the overflow back around; within a few steps the cat dissolves into evenly-scrambled noise. It's named for **Vladimir Arnold**, the same mathematician behind **Arnold the baker cat** next door in the [[Mandelbrot Bakery]], and it's the visible cousin of the dough-kneading **[Baker's map](https://en.wikipedia.org/wiki/Baker%27s_map)** — both are pictures of **deterministic chaos** and mixing → [[Dynamical Systems]]. The image sits right where the cavalcade she releases begins → [[The Cavalcade]].
 
 ## Additional Notes
 - 

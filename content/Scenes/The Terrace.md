@@ -25,7 +25,7 @@ Not to be confused with **Integral Hill**'s Lebesgue Terraces, a different featu
 - **Dynamical system** — any rule for how a state evolves step by step; Poincaré's work on celestial mechanics founded the field.
 
 ## Cross-links
-Same folding-and-stretching idea as **Arnold the cat's** dough-kneading in [[Mandelbrot Bakery]] (Arnold's cat map, the KAM theorem) — the two scenes make a nice dynamical-systems pair even though they sit in different corners of the room.
+Same folding-and-stretching idea as **Arnold the cat's** dough-kneading in [[Mandelbrot Bakery]] (Arnold the baker cat, the KAM theorem) — the two scenes make a nice dynamical-systems pair even though they sit in different corners of the room. The companion **Arnold's cat map** appears separately, at the adult silhouette's feet → [[Silhouettes and Vortices]].
 
 ## Additional Notes
 -

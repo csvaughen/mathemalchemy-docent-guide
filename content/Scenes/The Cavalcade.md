@@ -25,5 +25,7 @@ Pages of a book "fall" and erupt into three-dimensional **Koch snowflakes** and 
 ## Cross-links
 Pairs beautifully with [[Mandelbrot Bakery]] (iteration) on a fractal-themed tour leg.
 
+The cavalcade begins at the feet of the adult silhouette, where an image of **Arnold's cat map** sits — a thread of **deterministic chaos** running back through [[Silhouettes and Vortices]] to [[Dynamical Systems]].
+
 ## Additional Notes
 -

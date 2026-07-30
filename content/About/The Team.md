@@ -10,8 +10,8 @@ Official page: https://mathemalchemy.org/team-24-mathematicians-artists-of-mathe
 | Emily Baker | Architect; assistant professor, Fay Jones School of Architecture, U. Arkansas |
 | Dorothy Buck | Mathematician (topology, knots, links); Duke (Math & Biology); Leverhulme Trust grant |
 | Bronna Butler | Artist — glass, mirror, metal sculpture; recreational mathematics |
-| **Ingrid Daubechies** | Mathematician, Duke; signal/image/data analysis; **project co-founder** |
-| **Dominique Ehrmann** | Fiber & media artist; quilting/textiles; **project co-founder & lead fabricator** |
+| **[Ingrid Daubechies](https://en.wikipedia.org/wiki/Ingrid_Daubechies)** | Mathematician & physicist, Duke; signal/image/data analysis; **project co-founder** |
+| **[Dominique Ehrmann](https://dominiquehrmann.com/en/home/)** | Fiber & media artist; quilting/textiles; **project co-founder, lead artist and fabricator** |
 | Rochy Flint | Mathematician & educator; Teachers College, Columbia; founder of MathChavrusa |
 | Faye Goldman | Modular origami & snapology; published author — see [[The Garden and Reef]] |
 | Susan Goldstine | Math professor, St. Mary's College of Maryland; bead crochet — [[Cryptography Quilt]], [[Quiltlet]], [[The Curio Shop]] |

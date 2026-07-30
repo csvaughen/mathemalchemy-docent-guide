@@ -9,7 +9,7 @@ tags: [about]
 To showcase mathematics as creative, beautiful, and welcoming — "a garden of mathematical delights... for everyone" — and to demonstrate what mathematicians and artists can build together.
 
 ## Origin story
-- **Fall 2019** — Mathematician **Ingrid Daubechies** (Duke) saw fiber artist **Dominique Ehrmann**'s quilted installation *Time to Break Free* (2019) — a fantastical machine converting the flat figures of a traditional quilt into fully three-dimensional characters — and wondered whether something similar could bring the beauty and creativity of mathematical ideas to life.
+- **Fall 2019** — Mathematician and physicist **[Ingrid Daubechies](https://en.wikipedia.org/wiki/Ingrid_Daubechies)** (Duke) saw fiber artist **[Dominique Ehrmann](https://dominiquehrmann.com/en/home/)**'s quilted installation *Time to Break Free* (2019) — a fantastical machine converting the flat figures of a traditional quilt into fully three-dimensional characters — and wondered whether something similar could bring the beauty and creativity of mathematical ideas to life.
 - **January 2020** — Daubechies and Ehrmann launched the project at the Joint Mathematics Meetings in Denver; fourteen artists committed on the spot. The team grew to twenty-four.
 - **2020–2021** — Built remotely through the COVID-19 pandemic, coordinating by Zoom workshops.
 - **July 2021** — Three-week in-person assembly at Duke University's Rhodes Information Initiative.
