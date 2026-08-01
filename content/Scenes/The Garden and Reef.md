@@ -5,7 +5,7 @@ verified-against-official-site: false
 ---
 # The Garden and Reef
 
-**Math:** [[Hyperbolic Geometry]] · [[Fractals and Self-Similarity]] · [[Prime Numbers]]
+**Math:** [[Hyperbolic Geometry]] · [[Fractals and Self-Similarity]] · [[Prime Numbers]] · [[Polyhedra and Euler's Formula]] (100+ 3D-printed solids as flowers and sea creatures)
 **Creators (per EntreEd guide):** Faye Goldman (origami), Li-Mei Lim, and the crochet team including Daina Taimina
 **Official page:** https://mathemalchemy.org/2022/01/11/math-connections-in-the-garden/
 

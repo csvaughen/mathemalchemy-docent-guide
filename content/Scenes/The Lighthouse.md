@@ -5,7 +5,7 @@ verified-against-official-site: false
 ---
 # The Lighthouse
 
-**Math:** [[Trigonometry and Navigation]] · differential geometry (see construction notes)
+**Math:** [[Trigonometry and Navigation]] · [[Polyhedra and Euler's Formula]] (the stained-glass dodecahedron) · differential geometry (see construction notes)
 **Creators (per AMS Notices, Aug 2022):** surface designed by **Sabetta Matsumoto**; torsion-free-curve construction method by Emily Baker, Edmund Harriss, and Matsumoto; physically built by **Emily Baker and her students** (steel cut at the University of Arkansas). *(EntreEd credited "Henry Segerman and the 3D-fabrication group" — superseded by the first-party article.)*
 **Official page:** https://mathemalchemy.org/2022/01/11/math-connections-lighthouse/
 

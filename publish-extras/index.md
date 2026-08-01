@@ -16,7 +16,7 @@ A study guide and docent handbook for **[Mathemalchemy](https://mathemalchemy.or
 ## The 16 Scenes (Mathematical Connections)
 | Scene | Core math |
 |---|---|
-| [[Tess the Tortoise]] | [[Zeno's Paradoxes and Limits]] |
+| [[Tess the Tortoise]] | [[Zeno's Paradoxes and Limits]], [[Measure Theory and the Lebesgue Integral]] |
 | [[Cryptography Quilt]] | [[Cryptography]] |
 | [[The Great Doodle Page]] | [[Axioms, Proofs, and Mathematical Intuition]] |
 | [[Quiltlet]] | [[Tessellations and Wallpaper Groups]] |
@@ -30,13 +30,13 @@ A study guide and docent handbook for **[Mathemalchemy](https://mathemalchemy.or
 | [[The Mural]] | [[Projective Geometry and Perspective]] |
 | [[Mandelbrot Bakery]] | [[Fractals and Self-Similarity]] |
 | [[The Curio Shop]] | [[Polyhedra and Euler's Formula]] |
-| [[Lebesgue Terrace]] | [[Measure Theory and the Lebesgue Integral]] |
+| [[The Terrace]] | [[Dynamical Systems]] |
 | [[Frieze Tables]] | [[Frieze Groups]] |
 
 ## Docent - guided discovery and additional resources
 - [[Docent Guide - How to Use]] — guided discovery ideas and activities
 - [[Activities Index]] — all the hands-on activities at a glance
-- [[Tour Planning]] — four themed routes (A–D), timing, audience matching
+- [[Curriculum Connections]] — where a course's or theme's ideas turn up across the exhibit, with a paragraph you can forward to justify a class visit
 - 🚩 [[Decode the Banner]] — the skateboarder's flag hides a **real message in binary**. Crack it, then play Claude Shannon's guessing game. (No spoilers on this site!)
 
 ---

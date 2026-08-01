@@ -3,7 +3,7 @@ tags: [docent]
 ---
 # Arithmetic & Elementary Algebra
 
-Part of [[Curriculum Connections]]. Where the arithmetic and pre-algebra your class is working on shows up in the exhibit — with a paragraph you can forward to justify the trip, and a few things to point out once you arrive.
+Part of [[Curriculum Connections]]. Where the arithmetic and pre-algebra your class is working on shows up in the exhibit — and why it counts.
 
 ## Why this trip counts
 
