@@ -3,9 +3,7 @@ tags: [docent]
 ---
 # Curriculum Connections
 
-A map of where a course's or theme's ideas turn up across the exhibit — **not** a route to march students through. Mathemalchemy rewards wandering: every scene holds something at every level, and half the joy is stumbling onto a thing you weren't looking for. Use these pages to justify a visit and to prime a few "oh — that's what we're studying!" moments, then let people explore however they like.
-
-**On short notice?** Each course page opens with a short paragraph you can forward to an administrator explaining why the trip connects to your curriculum, followed by specific scenes to point out. No prep required.
+A map of where a course's or theme's ideas turn up across the exhibit — **not** a route to march students through. Mathemalchemy rewards wandering, exploring and discovery: every scene holds something at every level, and half the joy is stumbling onto a thing you weren't looking for. 
 
 ## By course
 
