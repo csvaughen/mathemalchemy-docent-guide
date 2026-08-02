@@ -6,7 +6,7 @@ verified-against-official-site: true
 # The Great Doodle Page
 
 **Math:** [[Axioms, Proofs, and Mathematical Intuition]]
-**Theme:** celebrating women mathematicians — seven are featured (verified against the official page, Jul 2026): **Marjorie Rice** (pentagonal tilings, the border), **Ada Lovelace** (notebook sketches — Ursula Martin discovered they relate to the Königsberg bridges problem), **Gladys West** (technical drawings), **Alicia Boole Stott** (4D-geometry doodles), **Maryam Mirzakhani** (manuscript notes), **Sofya Kovalevskaya** (playful doodles with flowers and bugs), and **Caroline Series** (Kleinian-group drawings, contributed by her). *(The vault previously listed Emmy Noether — she is not on the official list. The EntreEd "Kim Whittemore" fabrication credit was also removed — no such team member.)*
+**Theme:** celebrating women mathematicians — seven are featured (verified against the official page, Jul 2026): **Marjorie Rice** (pentagonal tilings, the border), **Ada Lovelace** (notebook sketches — Ursula Martin discovered they relate to the Königsberg bridges problem), **Gladys West** (technical drawings), **Alicia Boole Stott** (4D-geometry doodles), **Maryam Mirzakhani** (manuscript notes), **Sofya Kovalevskaya** (playful doodles with flowers and bugs), and **Caroline Series** (Kleinian-group drawings, contributed by her). 
 **Official page:** https://mathemalchemy.org/2022/01/11/math-connections-in-the-great-doodle-page/
 
 ## What it is
@@ -14,15 +14,3 @@ A quilted "doodle page" visualizing the *thinking process* of great mathematicia
 
 **Easter egg (official page):** the quilt's fabric colors reuse the [[Cryptography Quilt]]'s color–letter correspondence — **each mathematician's region is colored by her initials.** A lovely cross-scene decode for visitors who've done the ternary worksheet.
 
-## Docent questions
-- "How do these chaotic doodles function as a *visual proof* — a first step toward rigorous discovery?"
-- "If your notebook is full of sketches, what does this exhibit say about your brain's spatial reasoning?"
-- "In a world of AI-generated answers, why is the human doodle — the intuitive spark — hard to replicate?"
-
-## Key vocabulary
-- **Mathematical intuition** — the creative spark used to solve problems before writing a formal proof.
-- **Visual proof** — a diagram that shows *why* something is true without words or symbols.
-- **Geometric sketching** — drawing shapes to visualize spatial relationships.
-
-## Additional Notes
--

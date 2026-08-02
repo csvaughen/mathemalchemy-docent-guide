@@ -6,7 +6,7 @@ verified-against-official-site: false
 # Quiltlet
 
 **Math:** [[Tessellations and Wallpaper Groups]] · [[Frieze Groups]] (cousin concept)
-**Creators (per EntreEd guide):** Susan Goldstine, Elizabeth Paley, Carolyn Yackel
+
 **Official page:** https://mathemalchemy.org/2023/11/07/quiltlet-mathematical-connections/
 
 ## What it is
@@ -22,5 +22,3 @@ Small-scale fabric patterns exploring the **17 plane symmetry groups** ("wallpap
 - **Plane symmetry (wallpaper) groups** — the 17 ways a 2D pattern can repeat.
 - **Periodic tiling** — a pattern repeating at regular intervals in two directions.
 
-## Additional Notes
--

@@ -6,7 +6,7 @@ verified-against-official-site: true
 # Tess the Tortoise
 
 **Math:** [[Zeno's Paradoxes and Limits]] · [[Infinite Series and Convergence]] · [[Measure Theory and the Lebesgue Integral]] (at Integral Hill)
-**Creators (per the official fabrication page):** knitted tortoise with ceramic shell by Dominique Ehrmann and the team. Zeno's Path designed by Edward Vogel and Ingrid Daubechies, sewn by Dominique. Integral Hill's **Lebesgue Terraces** designed by Ingrid (concept) with level-curve shapes drawn by Dominique and vectorized by Ingrid, built in wood by Gavin Smith and Albert Kennett. **Riemann Cliffs** (300+ hexagonal dowels) cut and assembled by Stefan Zauscher, Liz Paley, and Li-Mei Lim, painted by Tasha Pruitt. **Riemann Wall** designed by Jessica, cut by Gavin Smith. **Hilbert's Hotel** billboard and Tess's to-do list designed by Jessica, drawn by Dominique, modified by Bronna Butler.
+
 **Official page:** https://mathemalchemy.org/2022/01/11/math-connections-tortoise/ · fabrication detail: https://mathemalchemy.org/2022/04/14/tortoise-fabrication/
 
 ## What it is
@@ -23,10 +23,3 @@ Tess is the exhibit's beloved mascot — a knitted tortoise with a ceramic shell
 - **Lebesgue integral** — measuring by horizontal slices (function value), vs. the Riemann integral's vertical slices (domain) — staged here as terraces vs. cliffs.
 - **Hilbert's Hotel** — a hotel with infinitely many rooms, always full, that can still make room for infinitely many new guests — a hands-on paradox of countable infinity.
 
-## Lore (AMS Notices, Aug 2022 + official fabrication page)
-- Tess "keeps herself busy by walking Zeno's Path **every day**," towing her **Sierpiński kite**; the path is entered through an ornamental gate, and she keeps a **to-do list** — the same one that appears on the Riemann Wall billboard.
-- Running gag from the AMS article's dialogue: Arnold the cat races Tess on Zeno's Path every visit and can never catch up — "this trail always takes forever. Why don't we just aim for the playground instead?"
-- During the July 2021 Duke assembly, Elias Zauscher fabric-covered "213 (!) spacers" between the Lebesgue Terraces — a nice number to drop on a tour.
-
-## Additional Notes
--

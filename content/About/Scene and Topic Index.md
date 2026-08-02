@@ -18,8 +18,8 @@ Sixteen scenes, each embodying real mathematics — and most touching more than 
 | [[Silhouettes and Vortices]] | [[Fluid Dynamics and Vortices]] |
 | [[The Cavalcade]] | [[Fractals and Self-Similarity]] |
 | [[Knotical (Knotilus Bay)]] | [[Knot Theory]], [[Topology]] |
-| [[The Lighthouse]] | [[Trigonometry and Navigation]] |
-| [[The Mural]] | [[Projective Geometry and Perspective]] |
+| [[The Lighthouse]] | [[Polyhedra and Euler's Formula]], [[Projective Geometry and Perspective]] |
+| [[The Mural]] | [[Fluid Dynamics and Vortices]], [[Projective Geometry and Perspective]] |
 | [[Mandelbrot Bakery]] | [[Fractals and Self-Similarity]] |
 | [[The Curio Shop]] | [[Polyhedra and Euler's Formula]] |
 | [[The Terrace]] | [[Dynamical Systems]] |
@@ -43,5 +43,4 @@ Teaching a class here? **[[Curriculum Connections]]** maps these topics to cours
 - [[Projective Geometry and Perspective]]
 - [[Tessellations and Wallpaper Groups]]
 - [[Topology]]
-- [[Trigonometry and Navigation]]
 - [[Zeno's Paradoxes and Limits]]

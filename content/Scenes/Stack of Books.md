@@ -6,20 +6,15 @@ verified-against-official-site: false
 # Stack of Books
 
 **Math:** [[Axioms, Proofs, and Mathematical Intuition]] · mathematical history
-**Creators (per EntreEd guide):** compiled by Ingrid Daubechies, Susan Goldstine, and sarah-marie belcastro
 **Official page:** https://mathemalchemy.org/2022/01/11/math-connections-in-the-stack-of-books/
 
 ## What it is
-A curated stack of (fabricated) mathematical texts — with origami flowers — grounding the exhibit's art in the historical lineage of theorems and proofs: math built like a skyscraper, from **axioms** upward.
-
-## Docent questions
-- "Why would an art gallery display messy sketches alongside finished proofs?"
-- "What's the difference between a truth we *assume* and a truth we *prove*?"
+A curated stack of mathematical texts — with origami flowers — grounding the exhibit's art in the historical lineage of theorems and proofs: math built like a skyscraper, from **axioms** upward.
 
 ## Key vocabulary
 - **Axiom** — a starting truth accepted without proof, the foundation of reasoning.
 - **Theorem** — a statement proven from axioms and earlier theorems.
-- **Mathematical bibliography** — the visual lineage of books from ancient geometry to modern theory.
 
-## Additional Notes
-- Per the AMS Notices article (Aug 2022), the **child silhouette perches atop the stack of books, blowing into a trumpet** — this scene physically supports the youngest of the three [[Silhouettes and Vortices|silhouettes]]; a natural tour segue.
+## Docent questions
+What books can you find here? The link to the official page provides a complete list and details.
+

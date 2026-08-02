@@ -26,8 +26,8 @@ A study guide and docent handbook for **[Mathemalchemy](https://mathemalchemy.or
 | [[Silhouettes and Vortices]] | [[Fluid Dynamics and Vortices]] |
 | [[The Cavalcade]] | [[Fractals and Self-Similarity]] |
 | [[Knotical (Knotilus Bay)]] | [[Knot Theory]], [[Topology]] |
-| [[The Lighthouse]] | [[Trigonometry and Navigation]] |
-| [[The Mural]] | [[Projective Geometry and Perspective]] |
+| [[The Lighthouse]] | [[Polyhedra and Euler's Formula]], [[Projective Geometry and Perspective]] |
+| [[The Mural]] | [[Fluid Dynamics and Vortices]], [[Projective Geometry and Perspective]] |
 | [[Mandelbrot Bakery]] | [[Fractals and Self-Similarity]] |
 | [[The Curio Shop]] | [[Polyhedra and Euler's Formula]] |
 | [[The Terrace]] | [[Dynamical Systems]] |

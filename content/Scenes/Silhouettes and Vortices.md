@@ -6,7 +6,6 @@ verified-against-official-site: true
 # Silhouettes and Vortices
 
 **Math:** [[Fluid Dynamics and Vortices]] · [[Dynamical Systems]] (Arnold's cat map)
-**Creators:** Dominique Ehrmann, Ingrid Daubechies, Edmund Harriss, Stephan LaCourse and others
 **Official page:** https://mathemalchemy.org/2022/01/12/math-connections-in-the-silhouettes-and-vortex-sheet/
 
 ## What it is
@@ -16,11 +15,6 @@ Three human silhouettes experiencing mathematics at different ages, threaded thr
 - an **adult** releasing an exuberant cavalcade of mathematical notes and jottings into the world.
 
 Per the AMS Notices article, the three are **deliberately coded as female** — 20 of the 24 core mathemalchemists are women, and the scene supports "the cultural shift that is making mathematics a more gender-inclusive field." Whether they are observing Mathemalchemy or imagining it into existence is left to the viewer.
-
-## Docent questions
-- "Can you find the swirling smoke patterns? What do they remind you of in the real world?"
-- "Did you know you're seeing the math behind a hurricane?"
-- "Why does predicting these swirls matter for coastal cities?"
 
 ## Key vocabulary
 - **Fluid dynamics** — how liquids and gases move and interact with objects.
@@ -32,7 +26,4 @@ The skateboarder's pennant flag is not decoration: every column of squares encod
 
 ## Arnold's cat map
 At the feet of the **adult** silhouette is an image of **[Arnold's cat map](https://en.wikipedia.org/wiki/Arnold%27s_cat_map)** — a chaotic transformation that stretches and shears a picture of a cat across a square, then wraps the overflow back around; within a few steps the cat dissolves into evenly-scrambled noise. It's named for **Vladimir Arnold**, the same mathematician behind **Arnold the baker cat** next door in the [[Mandelbrot Bakery]], and it's the visible cousin of the dough-kneading **[Baker's map](https://en.wikipedia.org/wiki/Baker%27s_map)** — both are pictures of **deterministic chaos** and mixing → [[Dynamical Systems]]. The image sits right where the cavalcade she releases begins → [[The Cavalcade]].
-
-## Additional Notes
-- 
 

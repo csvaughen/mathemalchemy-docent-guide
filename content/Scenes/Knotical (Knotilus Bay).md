@@ -6,7 +6,6 @@ verified-against-official-site: false
 # Knotical (Knotilus Bay)
 
 **Math:** [[Knot Theory]] · [[Topology]]
-**Creators (per EntreEd guide):** Samantha Pezzimenti, Henry Segerman, and the textile team including Elizabeth Paley
 **Official page:** https://mathemalchemy.org/2022/01/11/math-connections-knotical/
 
 ## What it is

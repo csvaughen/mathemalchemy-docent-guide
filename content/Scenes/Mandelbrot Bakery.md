@@ -6,7 +6,6 @@ verified-against-official-site: true
 # Mandelbrot Bakery
 
 **Math:** [[Fractals and Self-Similarity]] · tessellations & symmetry groups
-**Creators (verified against the official page, Jul 2026):** π-cookie tessellation designed by Ingrid Daubechies; mouse symmetry motifs by Susan Goldstine; Marjorie Rice pentagon-tiling floor sewn by Dominique Ehrmann; furnace grille by Robert Bosch (TSP Art). *(The EntreEd guide's "Kim Whittemore" credit was fabricated — no such person on the team roster in the AMS Notices article, Aug 2022.)*
 **Official page:** https://mathemalchemy.org/2022/01/05/math-connections-bakery/
 
 ## What it is
@@ -30,8 +29,4 @@ Fractal-tour trio: [[The Cavalcade]] (Koch snowflake) → here (Mandelbrot) → 
 - **The floor** is quilted in a convex pentagonal tiling discovered by **Marjorie Rice** — an amateur mathematician who found 4 of the 15 pentagon tiling types working in her kitchen. Ready-made "math is for anyone" story.
 - **Symmetry hunt:** the knitted mouse wallpaper shows **9 of the 17 wallpaper groups**; chalkboard mice show the **17 two-color frieze groups**; the cart wheel holds a **hyperbolic pentagon tiling** and an **Apollonian gasket** hub.
 - Also hiding: Bill Thurston's train-tracks drawing, the **Schrödinger equation** on bowl rims, circle inversion on the oven door, periodic pentagonal-billiard orbits, heptagonal oven designs.
-- The AMS article's dialogue: Arnold insists his tessellating cookies are art, not math ("I created the intertwining forms as a metaphor for the intertwining ingredients") — a nice Hook for the art-vs-math theme.
-- *(The ICM 2026 blurb's "sourdough Möbius strips" don't appear on the official page — the Möbius strip lives in [[The Curio Shop]] window.)*
 
-## Additional Notes
--
