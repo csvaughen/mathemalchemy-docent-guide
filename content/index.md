@@ -18,10 +18,10 @@ A study guide and docent handbook for **[Mathemalchemy](https://mathemalchemy.or
 |---|---|
 | [[Tess the Tortoise]] | [[Zeno's Paradoxes and Limits]], [[Measure Theory and the Lebesgue Integral]] |
 | [[Cryptography Quilt]] | [[Cryptography]] |
-| [[The Great Doodle Page]] | [[Axioms, Proofs, and Mathematical Intuition]] |
+| [[The Great Doodle Page]] | [[Women in Mathematics]], [[Mathematical History and the Long Conversation]] |
 | [[Quiltlet]] | [[Tessellations and Wallpaper Groups]] |
 | [[Ball Arches]] | [[Infinite Series and Convergence]] |
-| [[Stack of Books]] | [[Axioms, Proofs, and Mathematical Intuition]] |
+| [[Stack of Books]] | [[Mathematical History and the Long Conversation]], [[Women in Mathematics]] |
 | [[The Garden and Reef]] | [[Hyperbolic Geometry]], [[Prime Numbers]] |
 | [[Silhouettes and Vortices]] | [[Fluid Dynamics and Vortices]] |
 | [[The Cavalcade]] | [[Fractals and Self-Similarity]] |

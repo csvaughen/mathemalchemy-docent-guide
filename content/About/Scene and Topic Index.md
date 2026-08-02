@@ -10,10 +10,10 @@ Sixteen scenes, each embodying real mathematics — and most touching more than 
 |---|---|
 | [[Tess the Tortoise]] | [[Zeno's Paradoxes and Limits]], [[Measure Theory and the Lebesgue Integral]] |
 | [[Cryptography Quilt]] | [[Cryptography]] |
-| [[The Great Doodle Page]] | [[Axioms, Proofs, and Mathematical Intuition]] |
+| [[The Great Doodle Page]] | [[Women in Mathematics]], [[Mathematical History and the Long Conversation]] |
 | [[Quiltlet]] | [[Tessellations and Wallpaper Groups]] |
 | [[Ball Arches]] | [[Infinite Series and Convergence]] |
-| [[Stack of Books]] | [[Axioms, Proofs, and Mathematical Intuition]] |
+| [[Stack of Books]] | [[Mathematical History and the Long Conversation]], [[Women in Mathematics]] |
 | [[The Garden and Reef]] | [[Hyperbolic Geometry]], [[Prime Numbers]] |
 | [[Silhouettes and Vortices]] | [[Fluid Dynamics and Vortices]] |
 | [[The Cavalcade]] | [[Fractals and Self-Similarity]] |
@@ -28,7 +28,6 @@ Sixteen scenes, each embodying real mathematics — and most touching more than 
 ## The math topics
 Teaching a class here? **[[Curriculum Connections]]** maps these topics to courses and themes, with connections you can point to on a visit.
 
-- [[Axioms, Proofs, and Mathematical Intuition]]
 - [[Cryptography]]
 - [[Dynamical Systems]]
 - [[Fluid Dynamics and Vortices]]
@@ -37,10 +36,12 @@ Teaching a class here? **[[Curriculum Connections]]** maps these topics to cours
 - [[Hyperbolic Geometry]]
 - [[Infinite Series and Convergence]]
 - [[Knot Theory]]
+- [[Mathematical History and the Long Conversation]]
 - [[Measure Theory and the Lebesgue Integral]]
 - [[Polyhedra and Euler's Formula]]
 - [[Prime Numbers]]
 - [[Projective Geometry and Perspective]]
 - [[Tessellations and Wallpaper Groups]]
 - [[Topology]]
+- [[Women in Mathematics]]
 - [[Zeno's Paradoxes and Limits]]
