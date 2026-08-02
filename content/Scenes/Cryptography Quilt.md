@@ -12,6 +12,9 @@ verified-against-official-site: true
 ## What it is
 A quilt of **20 labeled blocks (A–T)**, arranged clockwise in four tiers of increasing complexity — basic symbols, historical ciphers, complex ciphers, modern mathematical cryptography — around a central padlock. Secrets hidden in plain sight through pattern, and genuinely decodable, not decorative: the padlock itself carries an 8-bit **binary/ASCII** message, and the ring of colored squares circling it carries a second message in **ternary (base-3)**, using three shades of blue for the digits 0, 1, and 2. The official *Decoding the Ternary Message* worksheet walks through building a full A–Z decoder dictionary for the ternary one.
 
+## The binding is the key
+Don't skip the edge. The band of fabrics running around the quilt's **binding** is the code's alphabet: **26 fabrics, A through Z, in order.** It's the key to the whole installation's fabric code — including the initials hidden in the colors of [[The Great Doodle Page]], which hangs on the back of this same quilt. Visitors can decode with nothing but the object in front of them.
+
 ## Docent questions
 - "Every block on this quilt is a real code or cipher — and you used several of them today without noticing. Pick one: where do you think it touches your everyday life?"
 - "When you tap your phone at a SEPTA gate, it makes a code that has never existed before and will never be accepted again. Why go to all that trouble, instead of just handing over your card number?"

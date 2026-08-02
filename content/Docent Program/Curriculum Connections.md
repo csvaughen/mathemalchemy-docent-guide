@@ -17,7 +17,7 @@ A map of where a course's or theme's ideas turn up across the exhibit — **not*
 ## By theme
 
 - **History of Mathematics** — *(in progress)* ciphers through the ages, Zeno, Riemann vs. Lebesgue
-- **Women in Mathematics** — *(in progress)* the 24-artist team; Mirzakhani, Noether, Taimina, Rice
+- **Women in Mathematics** — *(in progress)* the 20-of-24 team; Mirzakhani, Taimina, Rice, Somerville, Lovelace — see [[Women in Mathematics]]
 - **Science & Nature** — *(in progress)* DNA knots, coral geometry, fluid dynamics, biomimicry
 - **Art & Fabrication** — *(in progress)* crochet, quilting, ceramics, 3D printing, woodwork
 
