@@ -36,7 +36,7 @@ A study guide and docent handbook for **[Mathemalchemy](https://mathemalchemy.or
 ## Docent - guided discovery and additional resources
 - [[Docent Guide - How to Use]] — guided discovery ideas and activities
 - [[Activities Index]] — all the hands-on activities at a glance
-- [[Curriculum Connections]] — where a course's or theme's ideas turn up across the exhibit, with a paragraph you can forward to justify a class visit
+- [[Curriculum Connections]] — where a course's or theme's ideas turn up across the exhibit.
 - 🚩 [[Decode the Banner]] — the skateboarder's flag hides a **real message in binary**. Crack it, then play Claude Shannon's guessing game. (No spoilers on this site!)
 
 ---
