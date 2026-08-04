@@ -11,7 +11,7 @@ Sixteen scenes, each embodying real mathematics — and most touching more than 
 | [[Tess the Tortoise]] | [[Zeno's Paradoxes and Limits]], [[Measure Theory and the Lebesgue Integral]] |
 | [[Cryptography Quilt]] | [[Cryptography]] |
 | [[The Great Doodle Page]] | [[Women in Mathematics]], [[Mathematical History and the Long Conversation]] |
-| [[Quiltlet]] | [[Tessellations and Wallpaper Groups]] |
+| [[Quiltlet]] | [[Cryptography]] |
 | [[Ball Arches]] | [[Infinite Series and Convergence]] |
 | [[Stack of Books]] | [[Mathematical History and the Long Conversation]], [[Women in Mathematics]] |
 | [[The Garden and Reef]] | [[Hyperbolic Geometry]], [[Prime Numbers]] |

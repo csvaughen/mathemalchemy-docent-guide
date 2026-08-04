@@ -15,6 +15,9 @@ A quilt of **20 labeled blocks (A–T)**, arranged clockwise in four tiers of in
 ## The binding is the key
 Don't skip the edge. The band of fabrics running around the quilt's **binding** is the code's alphabet: **26 fabrics, A through Z, in order.** It's the key to the whole installation's fabric code — including the initials hidden in the colors of [[The Great Doodle Page]], which hangs on the back of this same quilt. Visitors can decode with nothing but the object in front of them.
 
+## The panel attached to it
+A small quilted panel on this quilt diagrams **BB84 quantum key distribution** — fireflies as single-photon sources, calcite crystals as polarizing filters, frogs as detectors. Keep the two straight: that panel *uses* quantum physics, while this quilt's lattice block (**Block H**) is classical math built to *survive* quantum computers. → [[Quiltlet]]
+
 ## Docent questions
 - "Every block on this quilt is a real code or cipher — and you used several of them today without noticing. Pick one: where do you think it touches your everyday life?"
 - "When you tap your phone at a SEPTA gate, it makes a code that has never existed before and will never be accepted again. Why go to all that trouble, instead of just handing over your card number?"

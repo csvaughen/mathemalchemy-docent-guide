@@ -10,11 +10,11 @@ Official page: https://mathemalchemy.org/team-24-mathematicians-artists-of-mathe
 | Emily Baker | Architect; assistant professor, Fay Jones School of Architecture, U. Arkansas |
 | Dorothy Buck | Mathematician (topology, knots, links); Duke (Math & Biology); Leverhulme Trust grant |
 | Bronna Butler | Artist — glass, mirror, metal sculpture; recreational mathematics |
-| **[Ingrid Daubechies](https://en.wikipedia.org/wiki/Ingrid_Daubechies)** | Mathematician & physicist, Duke; signal/image/data analysis; **project co-founder** |
-| **[Dominique Ehrmann](https://dominiquehrmann.com/en/home/)** | Fiber & media artist; quilting/textiles; **project co-founder, lead artist and fabricator** |
+| **[Ingrid Daubechies](https://en.wikipedia.org/wiki/Ingrid_Daubechies)** | Mathematician & physicist, Duke; signal/image/data analysis; **project co-founder** — [[Quiltlet]] |
+| **[Dominique Ehrmann](https://dominiquehrmann.com/en/home/)** | Fiber & media artist; quilting/textiles; **project co-founder, lead artist and fabricator** — [[Quiltlet]] |
 | Rochy Flint | Mathematician & educator; Teachers College, Columbia; founder of MathChavrusa |
 | Faye Goldman | Modular origami & snapology; published author — see [[The Garden and Reef]] |
-| Susan Goldstine | Math professor, St. Mary's College of Maryland; bead crochet — [[Cryptography Quilt]], [[Quiltlet]], [[The Curio Shop]] |
+| Susan Goldstine | Math professor, St. Mary's College of Maryland; bead crochet — [[Cryptography Quilt]], [[The Curio Shop]] |
 | Edmund Harriss | Mathematician & artist, U. Arkansas; 3D printing, CNC — [[The Cavalcade]] |
 | Li-Mei Lim | Research asst. professor, Boston University; analytic number theory — [[The Garden and Reef]] |
 | Sabetta Matsumoto | Physics professor, Georgia Tech; differential geometry, 3D printing |
@@ -30,7 +30,7 @@ Official page: https://mathemalchemy.org/team-24-mathematicians-artists-of-mathe
 | Edward Vogel | Electrical engineer & STEM/arts educator |
 | Jake Wildstrom | Assoc. professor, U. Louisville; crochet design, combinatorial optimization |
 | Mary Williams | Fiber artist; Celtic knots, mathematical textiles |
-| Carolyn Yackel | Math professor, Mercer University; mathematical fiber arts — [[Quiltlet]], [[Ball Arches]], [[Frieze Tables]] |
+| Carolyn Yackel | Math professor, Mercer University; mathematical fiber arts — [[Ball Arches]], [[Frieze Tables]] |
 
 ## Local contacts
 Team members in or near the Philadelphia region. This list will grow — other team members and local math faculty from nearby schools may get involved.
