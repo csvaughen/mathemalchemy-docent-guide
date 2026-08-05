@@ -34,6 +34,6 @@ The padlock and the ring of colored squares around it both carry genuine hidden 
 ## Block identification
 All 20 blocks (A–T) depict a real cipher or cryptographic idea, arranged in four tiers from basic symbols to modern mathematical cryptography — a natural first-five-minutes activity for a group walking in. Full block-by-block answer key: [[Cipher Safari]].
 
-## Tour tip (from the guide's own example, p. 35)
-This scene is the guide's worked example of the 4-beat script: *What do you see? → surprising fact → explain the concepts → hands-on: assign pairs to a block to puzzle out its message.* → [[Docent Guide - How to Use]]
+## Tour tip
+Start with "what do you see?" and let the looking happen before any explaining. A good way in for a group: assign pairs to a block and let them puzzle out what it depicts.
 

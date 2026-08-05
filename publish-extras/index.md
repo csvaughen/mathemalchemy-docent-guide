@@ -34,7 +34,6 @@ A study guide and docent handbook for **[Mathemalchemy](https://mathemalchemy.or
 | [[Frieze Tables]] | [[Frieze Groups]] |
 
 ## Docent - guided discovery and additional resources
-- [[Docent Guide - How to Use]] — guided discovery ideas and activities
 - [[Activities Index]] — all the hands-on activities at a glance
 - [[Docent Program/Curriculum/index|Curriculum Connections]] — where a course's or theme's ideas turn up across the exhibit.
 - 🚩 [[Decode the Banner]] — the skateboarder's flag hides a **real message in binary**. Crack it, then play Claude Shannon's guessing game. (No spoilers on this site!)
