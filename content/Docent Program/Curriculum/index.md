@@ -1,4 +1,5 @@
 ---
+title: Curriculum Connections
 tags: [docent]
 ---
 # Curriculum Connections
@@ -8,7 +9,9 @@ A map of where a course's or theme's ideas turn up across the exhibit — **not*
 ## By course
 
 - **[[Arithmetic & Elementary Algebra]]** — number bases, primes and factoring, remainders, patterns into rules
-- **Pre-Calculus** — *(in progress)* trigonometry and navigation, growth, functions
+- **Liberal Arts Math** — *(in progress)* chance and probability, the Shannon guessing game and predictive text
+- **Introductory Statistics** — *(in progress)* probability and randomness, estimating the entropy of English from data
+- **Pre-Calculus** — *(in progress)* functions and their behavior, complex numbers, the Mandelbrot set
 - **Calculus** — *(in progress)* limits, infinite series, area and integration
 - **Discrete Math** — *(in progress)* cryptography, graphs and Euler's formula, symmetry groups, knots
 - **Geometry** — *(in progress)* tessellations, polyhedra, perspective, curved space

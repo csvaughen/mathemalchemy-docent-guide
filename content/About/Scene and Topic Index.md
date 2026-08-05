@@ -26,7 +26,7 @@ Sixteen scenes, each embodying real mathematics — and most touching more than 
 | [[Frieze Tables]] | [[Frieze Groups]] |
 
 ## The math topics
-Teaching a class here? **[[Curriculum Connections]]** maps these topics to courses and themes, with connections you can point to on a visit.
+Teaching a class here? **[[Docent Program/Curriculum/index|Curriculum Connections]]** maps these topics to courses and themes, with connections you can point to on a visit.
 
 - [[Cryptography]]
 - [[Dynamical Systems]]
