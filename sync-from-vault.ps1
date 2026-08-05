@@ -16,6 +16,12 @@ $excludeFiles = @(
     "Silhouettes Banner Puzzle.md"   # contains the decoded banner message (spoiler)
 )
 
+# Addresses that are deliberately published (the corrections contact on About This Guide).
+# Exact matches only — every other email-like string still aborts the sync.
+$publicEmails = @(
+    "cvaughen@mc3.edu"
+)
+
 # Vault notes that exist only privately — wikilinks to them get converted to plain text
 $privateNotes = @(
     "Contacts", "MCCC Hosting", "ICM 2026 Philadelphia", "Campus Outreach Ideas",
@@ -81,7 +87,8 @@ Copy-Item (Join-Path $site "publish-extras\*") -Destination $content -Recurse -F
 
 # --- safety net: abort if anything that looks like an email survived --------
 $leaks = Get-ChildItem $content -Recurse -Filter *.md |
-    Select-String -Pattern '[\w.+-]+@[\w.-]+\.[A-Za-z]{2,}'
+    Select-String -Pattern '[\w.+-]+@[\w.-]+\.[A-Za-z]{2,}' -AllMatches |
+    Where-Object { @($_.Matches.Value | Where-Object { $publicEmails -notcontains $_ }).Count -gt 0 }
 if ($leaks) {
     $leaks | ForEach-Object { Write-Warning $_.ToString() }
     throw "PRIVATE DATA LEAK: email-like text found in public content. Sync aborted — fix the vault or add a scrub rule."
