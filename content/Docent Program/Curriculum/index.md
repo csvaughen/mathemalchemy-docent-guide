@@ -12,7 +12,7 @@ A map of where a course's or theme's ideas turn up across the exhibit — **not*
 - **Liberal Arts Math** — *(in progress)* chance and probability, the Shannon guessing game and predictive text
 - **Introductory Statistics** — *(in progress)* probability and randomness, estimating the entropy of English from data
 - **Pre-Calculus** — *(in progress)* functions and their behavior, complex numbers, the Mandelbrot set
-- **Calculus** — *(in progress)* limits, infinite series, area and integration
+- **[[Docent Program/Curriculum/Calculus|Calculus]]** — limits, sequences and infinite series, convergence tests, the Gabriel's horn paradox
 - **Discrete Math** — *(in progress)* cryptography, graphs and Euler's formula, symmetry groups, knots
 - **Geometry** — *(in progress)* tessellations, polyhedra, perspective, curved space
 - **For Math Majors** — *(in progress)* modern algebra, topology, number theory, real analysis

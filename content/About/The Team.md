@@ -10,7 +10,7 @@ Official page: https://mathemalchemy.org/team-24-mathematicians-artists-of-mathe
 | Emily Baker | Architect; assistant professor, Fay Jones School of Architecture, U. Arkansas |
 | Dorothy Buck | Mathematician (topology, knots, links); Duke (Math & Biology); Leverhulme Trust grant |
 | Bronna Butler | Artist — glass, mirror, metal sculpture; recreational mathematics |
-| **[Ingrid Daubechies](https://en.wikipedia.org/wiki/Ingrid_Daubechies)** | Mathematician & physicist, Duke; signal/image/data analysis; **project co-founder** — [[Quiltlet]] |
+| **[Ingrid Daubechies](https://en.wikipedia.org/wiki/Ingrid_Daubechies)** | Mathematician & physicist, Duke; signal/image/data analysis; **project co-founder** — [[Quiltlet]], [[Ball Arches]] (temari) |
 | **[Dominique Ehrmann](https://dominiquehrmann.com/en/home/)** | Fiber & media artist; quilting/textiles; **project co-founder, lead artist and fabricator** — [[Quiltlet]] |
 | Rochy Flint | Mathematician & educator; Teachers College, Columbia; founder of MathChavrusa |
 | Faye Goldman | Modular origami & snapology; published author — see [[The Garden and Reef]] |
@@ -20,7 +20,7 @@ Official page: https://mathemalchemy.org/team-24-mathematicians-artists-of-mathe
 | Sabetta Matsumoto | Physics professor, Georgia Tech; differential geometry, 3D printing |
 | Vernelle A. A. Noel | Architect, Georgia Tech; design computation |
 | Elizabeth Paley | Science writer & ceramicist, Duke — [[Cryptography Quilt]], [[Knotical (Knotilus Bay)]] |
-| Kathy Peterson | Administrative coordinator, Duke; craft enthusiast |
+| Kathy Peterson | Administrative coordinator, Duke; craft enthusiast — [[Ball Arches]] (temari) |
 | Samantha Pezzimenti | Asst. teaching professor (local to Philly!); topology & knot theory — [[Ball Arches]], [[Knotical (Knotilus Bay)]] |
 | Tasha Pruitt | Visual artist inspired by nature & science |
 | Kimberly Roth | Math & statistics, Juniata College; recreational math, knitting |
@@ -30,7 +30,7 @@ Official page: https://mathemalchemy.org/team-24-mathematicians-artists-of-mathe
 | Edward Vogel | Electrical engineer & STEM/arts educator |
 | Jake Wildstrom | Assoc. professor, U. Louisville; crochet design, combinatorial optimization |
 | Mary Williams | Fiber artist; Celtic knots, mathematical textiles |
-| Carolyn Yackel | Math professor, Mercer University; mathematical fiber arts — [[Ball Arches]], [[Frieze Tables]] |
+| Carolyn Yackel | Math professor, Mercer University; mathematical fiber arts; taught the team geometric temari — [[Ball Arches]], [[Frieze Tables]] |
 
 ## Local contacts
 Team members in or near the Philadelphia region. This list will grow — other team members and local math faculty from nearby schools may get involved.

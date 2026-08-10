@@ -27,6 +27,8 @@ $privateNotes = @(
     "Contacts", "MCCC Hosting", "ICM 2026 Philadelphia", "Campus Outreach Ideas",
     "Conference Presentation", "Student Volunteers", "Silhouettes Banner Puzzle",
     "Banner Decoding Activity", "Source - EntreEd Docent Guide", "Source - Mathemalchemy Website",
+    "Source - AMS Notices 2022", "Source - Ball Arches official text",
+    "Ball Arches — the two series",
     "Docent Guide - PDF Pack"
 )
 
