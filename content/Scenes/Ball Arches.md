@@ -89,18 +89,6 @@ not regular polygons → [[Polyhedra and Euler's Formula]]. There are only thirt
 solids, so with more than a dozen decorated balls the solids necessarily recur even though
 no two decorations are alike.
 
-## How they were made
-Each ball starts as a **styrofoam core** with a hole drilled straight through the middle,
-so the finished balls can be threaded onto a flexible stainless steel arch support. That
-central tunnel is lined with a **1/8-inch plastic drinking straw** to keep the styrofoam
-from crumbling over repeated installations. A layer of yarn at least a quarter-inch thick
-goes on next, thick enough to take a stitch, and then the fine coloured thread that gives
-each ball its surface.
-
-The temari work is by **Ingrid Daubechies**, **Kathy Peterson** and **Carolyn Yackel**.
-Yackel had been making geometric temari for years and taught the other two during the
-build → [[The Team]].
-
 ## Key vocabulary
 - **Convergent series** — an infinite sum whose running total approaches a specific finite
   value → [[Infinite Series and Convergence]].
