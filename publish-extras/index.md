@@ -3,11 +3,13 @@ title: Mathemalchemy Docent Companion
 ---
 # 🐢 Mathemalchemy Docent Companion
 
-This is an unofficial companion and reference guide to **[Mathemalchemy](https://mathemalchemy.org)**, a math and art exhibit handmade by 24 mathematicians and artists. It was written by volunteers at Montgomery County Community College for docents and educators, for use during the exhibit's visit to the college in Blue Bell, PA from August to October 2026. The official site is the more complete description of the exhibit, with photos, videos, descriptions of fabrication methods and the mathematical topics represented. This site is an overview of the exhibit, the scenes and math topics, and is meant to serve as a repository for related activities and curriculum connections.
+> *"A garden of mathematical delights... for everyone."*
+
+This is an unofficial companion to **[Mathemalchemy](https://mathemalchemy.org)**, a collaborative math and art exhibit, written by volunteers at Montgomery County Community College for docents and educators during the exhibit's visit to Blue Bell, PA.
+
+The [official site](https://mathemalchemy.org) is the more complete description: in-depth information on the mathematics, the story of the Mathemalchemy world, photos, videos, and details of the fabrication methods. This site is mostly text — short descriptions of the math and how the topics connect, plus a repository of activities and curriculum connections for educators.
 
 Contributions and corrections are welcome — see [[About This Guide]] to get in touch.
-
-> *"A garden of mathematical delights... for everyone."*
 
 ## Start here
 - [[About Mathemalchemy]] — what it is, origin story, official links, characters and scenes
