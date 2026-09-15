@@ -3,89 +3,88 @@ tags: [docent]
 ---
 # Calculus
 
-Part of [[Docent Program/Curriculum/index|Curriculum Connections]]. Where the ideas of a
-first-year calculus sequence — and especially the infinite series unit of Calculus 2 —
-show up in the exhibit.
+Part of [[Docent Program/Curriculum/index|Curriculum Connections]]. Where the infinite
+series unit of Calculus 2 shows up in the exhibit — first on Tess's path, then in the two
+Ball Arches.
 
-## Why this trip counts
+## Tess the Tortoise and the geometric series
 
-The series unit is where calculus stops being about slopes and areas and starts being
-about infinity, and it is where students most reliably lose their footing. The
-sticking point is almost always the same: they believe that if the terms of a sum shrink
-to nothing, the sum must be finite. It is false, every textbook says so, and the counter­
-example on the page never quite lands because it is just more symbols.
+[[Tess the Tortoise]] walks Zeno's Path every day. Zeno's dichotomy paradox says she can
+never finish: to reach the end she must first get halfway, then halfway through what
+remains, then halfway through what remains after that — infinitely many tasks, each one
+waiting on the last → [[Zeno's Paradoxes and Limits]]. Add the pieces up and the paradox
+becomes a sum:
 
-The [[Ball Arches]] are that counterexample built out of wool and hung from a ceiling. Two
-arches of thread-wrapped balls spring from a single shared sphere. On both, the balls
-shrink toward nothing. One of them tops out at a height it will never exceed; the other
-would run out of the building, out of the solar system, out of the galaxy. Nothing about
-any individual ball tells you which arch you are looking at. A student who has stood in
-front of those two arches has somewhere to put the idea.
+$$
+\frac12+\frac14+\frac18+\cdots=1
+$$
 
-The rest of the exhibit supplies limits, geometric series and improper integrals besides.
-No preparation is needed — but a class that has already met series will get more out of
-the arches than one that has not.
+After $n$ halvings Tess has covered $1-\tfrac{1}{2^n}$ of the path. The distance still to
+go is always exactly the length of the step she just took, so it never reaches zero, and
+yet every point short of the end is eventually passed. That is what it means for the
+infinite sum to *be* 1 — the limit of the partial sums. The creators' own
+[page on Tess](https://mathemalchemy.org/2022/01/11/math-connections-tortoise/) makes the
+careful distinction: the infinite list of halves is equivalent to the walk
+"mathematically (but not philosophically)."
 
-## Where your topics show up
+Tess's sum is the simplest geometric series, with first term $a=\tfrac12$ and ratio
+$r=\tfrac12$. Every geometric series with $|r|<1$ behaves the same way:
 
-| Concept | Scene | What to point out |
-|---|---|---|
-| **Sequences and limits** | [[Ball Arches]] · [[Tess the Tortoise]] | Ball diameters form a sequence tending to 0. Zeno's Path is a sequence of steps whose lengths halve — the tortoise's whole journey is a limit taken in public. |
-| **Convergent vs divergent series** | [[Ball Arches]] | The short arch converges; the long arch diverges. Both are made of balls shrinking to nothing. This is the single best object in the exhibit for a calculus class. |
-| **The nth-term test, and its converse failing** | [[Ball Arches]] | Terms going to zero is *necessary but not sufficient*. The two arches differ in exactly this way and in no visible way at all. |
-| **Geometric series** | [[Ball Arches]] · [[Tess the Tortoise]] | The short arch is geometric with ratio (4/5)^(2/3) ≈ 0.862, so its total is d₁/(1−r) ≈ 7.235 first-ball diameters. Zeno's ½ + ¼ + ⅛ + ⋯ = 1 is the classroom favourite, walked daily by a tortoise. |
-| **p-series and the integral test** | [[Ball Arches]] | The long arch's diameters go as (n+3)^(−2/3): a p-series with p = 2/3 ≤ 1. The integral test also gives the growth rate, about 3·4^(2/3)·N^(1/3), so doubling the arch takes eight times the balls. |
-| **The ratio test, including when it fails** | [[Ball Arches]] | Decisive on the short arch (L ≈ 0.862 < 1); **inconclusive** on the long arch, where L = 1. Two objects, one test, one answer and one shrug. |
-| **Comparison tests** | [[Ball Arches]] | The long arch's balls are term-by-term larger than the harmonic series, so it diverges because the harmonic series does. |
-| **Improper integrals; finite volume, infinite extent** | [[Ball Arches]] | The long arch is infinitely long, yet the material in it converges — the Gabriel's horn paradox, with the Basel sum π²/6 sitting three terms in. See the caution below before using this one. |
-| **Fractals and self-similarity** | [[The Cavalcade]] · [[Mandelbrot Bakery]] | Koch snowflakes and the Mandelbrot set: infinite perimeter bounding finite area, the same paradox in a different costume → [[Fractals and Self-Similarity]]. |
+$$
+a+ar+ar^2+\cdots=\frac{a}{1-r}
+$$
 
-## The derivation, standing in front of the object
+The same page poses a question about the path itself: **can you detect a relationship
+between the area of the stones, the length of each cluster of stones, and the location of
+the clusters along the path?**
 
-The official text for the arches makes the geometric-series argument **as a picture**, and
-it is worth stealing for class. Lay the first 30 balls of the short arch out in a row and
-call the total length L₃₀. Now draw that same row again, every circle scaled by the ratio
-r, and slide the copy right by one first-ball diameter.
+The same arithmetic runs the Koch snowflakes in [[The Cavalcade]], with a twist. Each stage
+replaces every edge with four edges a third as long, so the perimeter is multiplied by
+$\tfrac43$ at every step and grows without bound. The area added at each step, though, is
+only $\tfrac49$ of the area added at the step before — a geometric series with ratio less
+than 1 — so the snowflake encloses a finite area, exactly $\tfrac85$ of the triangle it
+started from. Infinite boundary, finite inside → [[Fractals and Self-Similarity]]. Keep
+that pairing in mind, because the arches do it too.
 
-Because scaling a ball by r turns it into the next ball, the copy is balls 2 through 31.
-So the copy is the original **with the first disk removed and one tiny disk added at the
-far end**. Both rows finish at the same place, which is an equation:
+## The Ball Arches
 
-    d₁ + r·L₃₀ = L₃₀ + d₃₁
+The [[Ball Arches]] are two arches of thread-wrapped temari balls. They share one physical
+sphere as their first ball, their second balls match by design, and from the third ball on
+they part ways: the short arch reaches up, and the long arch dives into the bay. On both
+arches the balls shrink toward nothing.
 
-Collect terms and you have the finite geometric sum:
+**The short arch is Tess's series again, with a different ratio.** Each ball is
+$(4/5)^{2/3}\approx0.862$ times the one before, so the balls laid end to end come to
 
-    L₃₀ = (d₁ − d₃₁) / (1 − r)
+$$
+\frac{d_1}{1-(4/5)^{2/3}}\approx7.23\ \text{first-ball diameters}
+$$
 
-That is the familiar "multiply by r and subtract" derivation of
+however many balls there are — infinitely many fit in a finite length.
 
-    Sₙ = a(1 − rⁿ)/(1 − r)
+**The long arch shrinks too slowly to stop.** Its diameters fall off like $1/n^{2/3}$, a
+$p$-series with $p=\tfrac23\le1$, so its total length is infinite. Its balls go to zero
+just as surely as the short arch's do, and it makes no difference: terms shrinking to
+nothing is necessary for a sum to be finite, never sufficient. Nothing about any single
+ball tells you which arch it belongs to. You have to add them up.
 
-with the subtraction done by sliding one picture along another. Then let the number of
-balls grow: the leftover sliver d₃₁ shrinks to nothing, and L climbs to d₁/(1−r) without
-ever reaching past it. Students who have only ever seen the algebraic version tend to find
-the sliding-picture version clarifying, because the term that "cancels" is a disk they can
-point at.
+**Then the volume.** A ball's volume goes as the cube of its diameter, which turns the long
+arch's $1/n^{2/3}$ into $1/n^2$ — and $\sum 1/n^2$ converges, to the Basel sum
+$\pi^2/6$. So the infinitely long arch holds a finite volume, about 4.54 times the volume
+of its first ball, while the short arch holds exactly $\tfrac{25}{9}\approx2.78$ first-ball
+volumes. (These are volumes of ideal solid spheres — a statement about the mathematics, not
+about how much yarn is on the arch.) The arch that never ends holds only about 1.6 times as
+much as the arch that stops. As with the snowflake, two measurements of the same objects
+give opposite answers.
 
-## Two cautions before you use this in class
+The full derivation — the two diameter formulas, both length series, and both volume sums
+worked out exactly — is in
+**[[Ball Arches and Infinite Series.pdf|Ball Arches and Infinite Series (PDF)]]**.
 
-**The exhibit is not a proof.** The arches show finitely many balls — 100 on the long arch
-and a couple of dozen on the short one. They illustrate a limit; they do not establish one.
-That distinction is itself worth raising with students, since "I can see it" is exactly the
-move analysis exists to discipline.
-
-**Do not compute the thread.** The balls are styrofoam cores wrapped in yarn and thread,
-not solid wool, so the tempting "infinite length, finite volume" calculation does not
-describe the physical object. The Gabriel's horn idea is sound and the arch is a fine
-prompt for it, but keep the paradox about the mathematics rather than claiming a number
-for how much thread is on the arch.
-
-## Ready-made activities
-
-The arches do not currently have a gallery activity in the [[Activities Index]] — the
-scene rewards standing and arguing rather than working a worksheet. If you want something
-in hand, the strongest classroom follow-up is to have students derive the 7.235 figure
-themselves from the ratio, then check it against the shape of the arch in front of them.
+The exhibit is not a proof. The long arch shows 100 balls and the short one a couple of
+dozen; they illustrate a limit rather than establish one. That distinction is itself worth
+raising with students, since "I can see it" is exactly the move analysis exists to
+discipline.
 
 ## But let them wander
 
