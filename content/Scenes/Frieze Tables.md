@@ -41,6 +41,6 @@ Footprint diagrams and the two-color mouse patterns are on the official page lin
 ## Key vocabulary
 - **Frieze group** — classification of patterns repeating in exactly one direction; there are exactly 7 → [[Frieze Groups]].
 - **Translation** — slide along the line without rotating or flipping.
-- **Reflection** — flip across a line (mirror). Across a line *cutting* the strip gives a sidle; across the strip's own centre line gives a jump.
+- **Reflection** — flip across a line (mirror). Across a line *cutting* the strip gives a sidle; across the strip's own center line gives a jump.
 - **[Glide reflection](https://en.wikipedia.org/wiki/Glide_reflection)** — slide and flip together, neither one alone. Ordinary walking: your left footprint is your right footprint moved forward and mirrored.
 

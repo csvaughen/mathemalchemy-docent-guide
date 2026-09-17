@@ -8,6 +8,11 @@ The [[Cryptography Quilt]] is 20 labeled blocks (A–T), arranged clockwise in f
 
 **5–20 minutes, scales with how many blocks you cover. Any group size.**
 
+## Twenty blocks, twenty-five panels
+Count the quilted panels and you will get twenty-five, not twenty — worth knowing before a sharp-eyed visitor gets there first. The twenty lettered blocks are the **outer** ring, and they are what this activity covers. Inside them is a second, smaller ring of **five unlettered panels the creators call vignettes**, and inside that is the padlock at the center. The vignettes are not part of the A–T sequence, so nothing is missing from the list below.
+
+They are codes in their own right, if a group wants more than twenty: the Bakery vignette gives a recipe entirely in pictures, the Garden vignette runs an RSA public-key exchange between a squirrel and a chipmunk, the Knotical sailor spells out **S** in semaphore flags, the Lighthouse flashes Morse, and Tess flies a kite with a key on it. Each one links its own scene back to codes and secret-keeping — full descriptions on [[Cryptography Quilt]].
+
 ## The hook 
 > "Before I say a word — look at this quilt. Twenty panels, and every one of them is hiding a real code or cipher, from something Julius Caesar actually used to math that's still being invented today. Pick a block. What do you think it's showing?"
 
