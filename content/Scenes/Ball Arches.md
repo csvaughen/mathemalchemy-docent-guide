@@ -109,7 +109,9 @@ different craft — a natural pairing.
 
 This is the most directly teachable scene in the installation for a **Calculus 2** course,
 where convergence and divergence of series is a standard unit →
-[[Docent Program/Curriculum/Calculus|Calculus]].
+[[Docent Program/Curriculum/Calculus|Calculus]]. The classroom worksheet that works both
+arches out from their formulas, ending on the long arch's infinite length and finite
+volume, is [[Infinite Length Finite Volume|Infinite Length, Finite Volume]].
 
 ## Additional Notes
 **Local connections:** Samantha Pezzimenti (creator; also a creator on [[Knotical (Knotilus Bay)]])
