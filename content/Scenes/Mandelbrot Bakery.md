@@ -25,5 +25,5 @@ Fractal-tour trio: [[The Cavalcade]] (Koch snowflake) → here (Mandelbrot) → 
 - **Symmetry hunt:** the knitted mouse wallpaper shows **9 of the 17 wallpaper groups**; chalkboard mice show the **17 two-color frieze groups**; the cart wheel holds a **hyperbolic pentagon tiling** and an **Apollonian gasket** hub.
 - Also hiding: Bill Thurston's train-tracks drawing, the **Schrödinger equation** on bowl rims, circle inversion on the oven door, periodic pentagonal-billiard orbits, heptagonal oven designs.
 
-**The floor you are standing on was worked out by a San Diego homemaker with no mathematics past high school, at her kitchen table — and the professionals had missed it. What could she see that they couldn't?**
+**The tiling of the floor of the bakery was worked out by a San Diego homemaker with no mathematics past high school, at her kitchen table — and the professionals had missed it. What could she see that they couldn't?**
 
