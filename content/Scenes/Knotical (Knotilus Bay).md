@@ -11,11 +11,6 @@ verified-against-official-site: false
 ## What it is
 The nautical bay scene — pun fully intended — featuring the **Knotilus** (a logarithmic-spiral shell) and mathematical knots: closed loops that can never be untied, classified by **invariants** that survive any stretching or bending.
 
-## Docent questions
-- "Look at the Knotilus shell — where else in nature have you seen that spiral?"
-- "What if I told you your life depends on knot math?" (DNA must be untangled by enzymes for cells to divide)
-- "Pull on a knot all you like — what about it *never* changes?"
-
 ## Key vocabulary
 - **Knot theory** — the branch of topology studying closed loops that can't be untied.
 - **Invariant** — a property unchanged under deformation.
