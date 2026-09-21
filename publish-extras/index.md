@@ -17,25 +17,25 @@ Contributions and corrections are welcome — see [[About This Guide]] to get in
 - [[Exhibition History]] — where it has been, where it's going
 - [[About This Guide]] — what this site is, credits, and verification status
 
-## The 16 Scenes (Mathematical Connections)
+## The 16 Scenes and Mathematical Connections
 | Scene | Core math |
 |---|---|
-| [[Tess the Tortoise]] | [[Zeno's Paradoxes and Limits]], [[Measure Theory and the Lebesgue Integral]] |
+| [[Tess the Tortoise]] | [[Zeno's Paradoxes and Limits]], [[Measure Theory and the Lebesgue Integral]], [[Hyperbolic Geometry]], [[Fractals and Self-Similarity]] |
 | [[Cryptography Quilt]] | [[Cryptography]] |
 | [[The Great Doodle Page]] | [[Women in Mathematics]], [[Mathematical History and the Long Conversation]] |
 | [[Quiltlet]] | [[Cryptography]] |
 | [[Ball Arches]] | [[Infinite Series and Convergence]] |
 | [[Stack of Books]] | [[Mathematical History and the Long Conversation]], [[Women in Mathematics]] |
-| [[The Garden and Reef]] | [[Hyperbolic Geometry]], [[Prime Numbers]] |
-| [[Silhouettes and Vortices]] | [[Fluid Dynamics and Vortices]] |
-| [[The Cavalcade]] | [[Fractals and Self-Similarity]] |
+| [[The Garden and Reef]] | [[Hyperbolic Geometry]], [[Prime Numbers]], [[Polyhedra and Euler's Formula]] |
+| [[Silhouettes and Vortices]] | [[Fluid Dynamics and Vortices]], [[Dynamical Systems]] |
+| [[The Cavalcade]] | 43 sheets — nearly every topic in this table turns up on one of them |
 | [[Knotical (Knotilus Bay)]] | [[Knot Theory]], [[Topology]] |
 | [[The Lighthouse]] | [[Polyhedra and Euler's Formula]], [[Projective Geometry and Perspective]] |
 | [[The Mural]] | [[Fluid Dynamics and Vortices]], [[Projective Geometry and Perspective]] |
-| [[Mandelbrot Bakery]] | [[Fractals and Self-Similarity]] |
-| [[The Curio Shop]] | [[Polyhedra and Euler's Formula]] |
+| [[Mandelbrot Bakery]] | [[Tessellations and Wallpaper Groups]], [[Fractals and Self-Similarity]] |
+| [[The Curio Shop]] | [[Polyhedra and Euler's Formula]], [[Tessellations and Wallpaper Groups]] |
 | [[The Terrace]] | [[Dynamical Systems]] |
-| [[Frieze Tables]] | [[Frieze Groups]] |
+| [[Frieze Tables]] | [[Frieze Groups]], [[Tessellations and Wallpaper Groups]] |
 
 ## Docent - guided discovery and additional resources
 - [[Activities Index]] — all the hands-on activities at a glance

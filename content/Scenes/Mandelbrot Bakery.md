@@ -5,7 +5,7 @@ verified-against-official-site: true
 ---
 # Mandelbrot Bakery
 
-**Math:** [[Fractals and Self-Similarity]] · tessellations & symmetry groups
+**Math:** [[Tessellations and Wallpaper Groups]] · [[Fractals and Self-Similarity]] · [[Frieze Groups]]
 **Official page:** https://mathemalchemy.org/2022/01/05/math-connections-bakery/
 
 ## What it is
