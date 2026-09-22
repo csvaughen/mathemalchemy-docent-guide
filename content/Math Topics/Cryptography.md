@@ -3,7 +3,7 @@ tags: [math-topic]
 ---
 # Cryptography
 
-**In the exhibit:** [[Cryptography Quilt]] (20 blocks of ciphers, plus two genuinely decodable hidden messages) · [[Quiltlet]] (the small attached panel, diagramming BB84 quantum key distribution)
+**In the exhibit:** [[Cryptography Quilt]] (25 panels relating to the math of communication and encryption, with many decodable messages) · [[Quiltlet]] (the small attached panel, diagramming BB84 quantum key distribution)
 
 The mathematics of secret-keeping: transforming information so only the intended recipient can recover it. Spans classical ciphers (Caesar, Vigenère), modern **public-key cryptography** built on modular arithmetic and prime factorization ([[Prime Numbers]]), and **post-quantum cryptography** — classical math designed to stay secure even against a future quantum computer, which the quilt's lattice block already depicts.
 
