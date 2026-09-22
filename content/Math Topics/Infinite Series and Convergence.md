@@ -14,8 +14,8 @@ is exact, not an approximation.
 ## The trap, and the exhibit's answer to it
 The natural guess is that a sum must be finite whenever its terms shrink to nothing. It is
 false, and the **[[Ball Arches]]** are built to show it. Both arches are made of balls
-shrinking toward zero. One reaches a finite height it never exceeds; the other would climb
-forever if there were room. Nothing you can see about an individual ball tells you which
+shrinking toward zero. One reaches up to a point it never passes; the other plunges into
+the bay and, in theory, would go on forever. Nothing you can see about an individual ball tells you which
 arch you are looking at — you have to add them up.
 
 Terms shrinking to zero is **necessary** for convergence but nowhere near **sufficient**.
@@ -36,4 +36,4 @@ why a series can be "entered" anywhere convenient without affecting its fate —
 thing to know when a physical object has to start somewhere.
 
 **One-liner for tours:** "Both of these arches are made of balls shrinking to nothing.
-Only one of them has a top."
+Only one of them has finite length."
