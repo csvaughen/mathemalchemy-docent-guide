@@ -10,6 +10,7 @@ This list is under construction and more activities are on the way.
 | Scene | Activity | Setting | Time | One-line |
 |---|---|---|---|---|
 | The whole exhibit | [[Scavenger Hunt]] | Gallery | 15–30 min | Twelve riddles, twelve things to find, and the mathematics behind each one on the back |
+| The whole exhibit | [[Mathemalchemy Class Activity]] | Gallery | 30–60 min | One worksheet for a class visit: codes, infinite series and polyhedra, answered from the exhibit |
 | [[Silhouettes and Vortices]] | [[Decode the Banner]] | Gallery · Classroom | 3–40 min | Crack the flag's hidden binary message, Shannon-style |
 | [[Cryptography Quilt]] | [[Decode the Padlock]] | Gallery | 3–5 min | Same binary/ASCII trick as the banner — crack the quilt's padlock |
 | [[Cryptography Quilt]] | [[Decode the Ring]] | Classroom | 20–30 min | Build a base-3 alphabet, then crack the message circling the padlock |
