@@ -3,7 +3,7 @@ tags: [docent, activity]
 ---
 # Activity: Mathemalchemy Class Activity
 
-A single two-sided worksheet for a college class visiting [Mathemalchemy](https://mathemalchemy.org/). Twelve questions in three parts: **codes** (ASCII, prime numbers, the Cryptography Quilt), **infinite series** (the Ball Arches, Zeno's Path, and a perpetuity, which is the same mathematics with dollars in it), and **polyhedra** (the Platonic solids and Euler's formula).
+A single two-sided worksheet for a college class visiting [Mathemalchemy](https://mathemalchemy.org/). Ten questions in three parts: **codes** (ASCII, prime numbers, the Cryptography Quilt), **infinite series** (the Ball Arches, Zeno's Path, and a perpetuity, which is the same mathematics with dollars in it), and **polyhedra** (the Platonic solids and Euler's formula).
 
 ## How it runs
 
