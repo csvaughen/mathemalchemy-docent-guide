@@ -27,7 +27,7 @@ Every quirk you decode on the flag was a decision made for a machine that no lon
 
 A fossil you can still touch: "carriage return" and "line feed" are two separate characters because on a teleprinter they were two separate mechanical actions — slam the printing carriage back to the left, then roll the paper up one line. Every text file on your computer still chooses between them.
 
-## Gallery quick hit (3–5 min)
+## Gallery quick hit (10–15 min)
 1. Deliver the hook and give the encoding rule (white = 1, black = 0, eight per column).
 2. Have visitors decode **just the first column** with a decoder card.
 3. Invite them to find the spaces and guess the message from its shape — then send them home with the worksheet to finish. *(Resist confirming or denying guesses!)*

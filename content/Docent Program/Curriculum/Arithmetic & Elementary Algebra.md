@@ -24,7 +24,7 @@ Mathemalchemy turns core arithmetic and pre-algebra ideas into things students c
 
 From the [[Activities Index]]:
 - **[[Decode the Banner]]** — turn a binary pattern into a number by hand (powers of two; place value in action), then into a letter.
-- **[[Decode the Padlock]]** — the same trick on the quilt's padlock; 3–5 minutes in the gallery.
+- **[[Decode the Padlock]]** — the same trick on the quilt's padlock; 20–30 minutes in the gallery.
 - **[[Decode the Ring]]** — build a base-3 alphabet, then crack the ternary message circling the padlock (classroom, 20–30 min).
 - **[[Cipher Safari]]** — name the real cipher hidden in each of the quilt's 20 blocks.
 

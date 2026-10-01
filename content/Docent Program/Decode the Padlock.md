@@ -13,10 +13,10 @@ The padlock at the center of the [[Cryptography Quilt]] sits in a field of **0s 
 - **Binary:** every 0 or 1 in the field around the padlock is a **bit**. 
 - **ASCII:** every 8 bits is one character's 8-bit ASCII code — the same rule as the banner. → [[Cryptography]]
 
-## Gallery quick hit (3–5 min)
+## Gallery decode (20–30 min)
 1. Point out the field of binary around the padlock and remind visitors it's the same code as the banner.
 2. Have them use the gaps to pick out a single 8-bit letter-group.
-3. Hand them an ASCII decoder card — the banner's works for turning a byte into a letter, since the alphabet is identical — and let them decode the first character, then send them off to find the rest.
+3. Hand them an ASCII decoder card — the banner's works for turning a byte into a letter, since the alphabet is identical — and let them decode the first character, then work through the rest of the message there at the quilt.
 
 ## Why this activity earns its spot
 The exhibit hides the *same* technique twice, in two different scenes — a deliberate echo, and a great "you already know how to do this" moment for anyone who's already done the banner. → [[Decode the Ring]] is the padlock's neighbor, hiding a second message in a completely different number base.

@@ -11,8 +11,8 @@ This list is under construction and more activities are on the way.
 |---|---|---|---|---|
 | The whole exhibit | [[Scavenger Hunt]] | Gallery | 15–30 min | Twelve riddles, twelve things to find, and the mathematics behind each one on the back |
 | The whole exhibit | [[Mathemalchemy Class Activity]] | Gallery | 30–60 min | One worksheet for a class visit: codes, infinite series and polyhedra, answered from the exhibit |
-| [[Silhouettes and Vortices]] | [[Decode the Banner]] | Gallery · Classroom | 3–40 min | Crack the flag's hidden binary message, Shannon-style |
-| [[Cryptography Quilt]] | [[Decode the Padlock]] | Gallery | 3–5 min | Same binary/ASCII trick as the banner — crack the quilt's padlock |
+| [[Silhouettes and Vortices]] | [[Decode the Banner]] | Gallery · Classroom | 10–40 min | Crack the flag's hidden binary message, Shannon-style |
+| [[Cryptography Quilt]] | [[Decode the Padlock]] | Gallery | 20–30 min | Same binary/ASCII trick as the banner — crack the quilt's padlock |
 | [[Cryptography Quilt]] | [[Decode the Ring]] | Classroom | 20–30 min | Build a base-3 alphabet, then crack the message circling the padlock |
 | [[Cryptography Quilt]] | [[Cipher Safari]] | Gallery · Classroom | 5–20 min | Name the real cipher hidden in each of the quilt's 20 blocks |
 | [[Knotical (Knotilus Bay)]] | [[Stuck or Knot]] | Gallery · Classroom | 5–15 min | Human knot as an open experiment — sometimes it's provably stuck, and figuring out why is the point |
