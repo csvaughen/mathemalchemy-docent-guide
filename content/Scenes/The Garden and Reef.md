@@ -25,8 +25,6 @@ A garden and coral reef of **hyperbolic crochet** and folded paper — surfaces 
 - **Alexander's horned sphere** — the metal sculpture in the garden, and a famous counterexample from the 1920s. It is a closed surface whose *inside* can be reshaped into the inside of an ordinary ball, while its *outside* cannot be reshaped into the outside of one. Mathematicians had assumed that was impossible, and it is the kind of object that exists to show an assumption was wrong.
 
 ## Additional Notes
-**Local connections:** Faye Goldman (creator — origami/snapology)
-
 - Find the squirrels' Sieve of Eratosthenes — and the chipmunks' cuneiform acorn game on the playground!
 - More garden lore (AMS Notices, Aug 2022): **gaussian-integer stepping stones**; 100+ small **3D-printed polyhedra** (every Platonic, Archimedean, and Johnson solid plus the first prisms/antiprisms, integrated by Tasha Pruitt) appear as flower stamens/pistils in the garden and as sea creatures in the reef.
 

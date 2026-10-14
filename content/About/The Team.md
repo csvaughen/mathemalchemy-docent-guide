@@ -21,7 +21,7 @@ Official page: https://mathemalchemy.org/team-24-mathematicians-artists-of-mathe
 | Vernelle A. A. Noel | Architect, Georgia Tech; design computation |
 | Elizabeth Paley | Science writer & ceramicist, Duke — [[Cryptography Quilt]], [[Knotical (Knotilus Bay)]] |
 | Kathy Peterson | Administrative coordinator, Duke; craft enthusiast — [[Ball Arches]] (temari) |
-| Samantha Pezzimenti | Asst. teaching professor (local to Philly!); topology & knot theory — [[Ball Arches]], [[Knotical (Knotilus Bay)]] |
+| Samantha Pezzimenti | Asst. teaching professor; topology & knot theory — [[Ball Arches]], [[Knotical (Knotilus Bay)]] |
 | Tasha Pruitt | Visual artist inspired by nature & science |
 | Kimberly Roth | Math & statistics, Juniata College; recreational math, knitting |
 | Henry Segerman | Assoc. professor, Oklahoma State; 3D printing & math visualization — [[Ball Arches]], [[The Lighthouse]], [[The Cavalcade]] |
@@ -31,10 +31,3 @@ Official page: https://mathemalchemy.org/team-24-mathematicians-artists-of-mathe
 | Jake Wildstrom | Assoc. professor, U. Louisville; crochet design, combinatorial optimization |
 | Mary Williams | Fiber artist; Celtic knots, mathematical textiles |
 | Carolyn Yackel | Math professor, Mercer University; mathematical fiber arts; taught the team geometric temari — [[Ball Arches]], [[Frieze Tables]] |
-
-## Local contacts
-Team members in or near the Philadelphia region. This list will grow — other team members and local math faculty from nearby schools may get involved.
-
-- **Samantha Pezzimenti** — topology & knot theory → [[Ball Arches]], [[Knotical (Knotilus Bay)]]
-- **Faye Goldman** — modular origami & snapology → [[The Garden and Reef]]
-

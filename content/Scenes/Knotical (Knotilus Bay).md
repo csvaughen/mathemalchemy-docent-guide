@@ -36,8 +36,3 @@ Hooks to invite bio, microbio, and biotech faculty and their students. Brief on 
 - **Catenanes & supercoiling** — after replication, the two daughter loops come out *linked* and must be unlinked; the math of this is exactly links & knots.
 - **DNA nanotechnology / DNA origami** — biotech students actually *build* designed knots and links out of DNA; the reef's [[The Garden and Reef|folded-paper origami]] is a nice visual bridge.
 - **Site-specific recombination** — enzymes that cut-and-rejoin DNA change its knot type; mathematicians (tangle calculus) model these reactions with knot theory to predict enzyme mechanisms.
-
-## Additional Notes
-**Local connections:** Samantha Pezzimenti (creator; also a creator on [[Ball Arches]])
-
--
